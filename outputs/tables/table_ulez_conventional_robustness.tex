@@ -1,0 +1,23 @@
+\begin{table}[!htbp]\centering
+\caption{Conventional robustness checks for implied ULEZ exposure effects}
+\label{tab:ulez_conventional_robustness}
+\begin{threeparttable}
+\scriptsize
+\setlength{\tabcolsep}{2pt}
+\renewcommand{\arraystretch}{1.08}
+\begin{tabularx}{\textwidth}{@{}>{\RaggedRight\arraybackslash}X>{\RaggedRight\arraybackslash}p{0.11\textwidth}>{\RaggedRight\arraybackslash}p{0.13\textwidth}>{\RaggedRight\arraybackslash}p{0.14\textwidth}rrrrr@{}}
+\toprule
+Specification & Scale & Sample & Inference & $\bar S^t$ & $\bar S^u$ & $\beta^d$ & $\beta^t\bar S^t$ & $\beta^u\bar S^u$ \\
+\midrule
+Baseline & Percent & Full panel & Station cluster & 0.946 & 0.613 & -6.60** (2.81) & -3.14 (2.83) & -6.16*** (1.68) \\
+Level outcome & $\mu$g/m$^3$ & Full panel & Station cluster & 0.946 & 0.613 & -3.06** (1.34) & -4.19*** (1.46) & -5.29*** (1.12) \\
+Central ULEZ only & Percent & 2016--Sep. 2021 & Station cluster & 0.716 & 0.544 & -4.71 (35.59) & -13.92 (30.90) & -8.43*** (3.08) \\
+Two-way cluster & Percent & Full panel & Station and month cluster & 0.946 & 0.613 & -6.60** (2.96) & -3.14 (2.97) & -6.16*** (1.86) \\
+\bottomrule
+\end{tabularx}
+\begin{tablenotes}[flushleft]
+\footnotesize
+\item Notes: The table reports implied effects from the unrestricted model with the benchmark 0--3 km exposure mapping. $\bar S^t$ is the mean positive exposure among treated exposed observations, and $\bar S^u$ is the mean positive exposure among untreated exposed observations in the relevant estimation sample. Exposure effects are evaluated as $\hat\beta^t\bar S^t$ and $\hat\beta^u\bar S^u$, rather than as unit-exposure slopes. For log-outcome specifications, entries are percentage effects, $100[\exp(\widehat{\mathrm{effect}})-1]$, with standard errors in parentheses computed by the delta method treating $\bar S$ as fixed. For the level-outcome specification, entries are in $\mu$g/m$^3$. The central-ULEZ-only specification uses observations through September 2021 to exclude the Inner London and London-wide expansions. Significance: * $p<0.10$, ** $p<0.05$, *** $p<0.01$. Source: London Air Quality Network/Imperial College London monitoring data and Greater London Authority/Transport for London ULEZ boundary files. Author's calculations.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

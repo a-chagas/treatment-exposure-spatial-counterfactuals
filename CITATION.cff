@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this reproduction package, please cite the associated paper."
+title: "Reproduction package for Treatment, Exposure, and Spatial Counterfactuals in Regional Policy Evaluation"
+type: software
+authors:
+  - family-names: "Chagas"
+    given-names: "André Luis Squarize"
+date-released: 2026-09-14

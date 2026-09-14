@@ -1,0 +1,22 @@
+\begin{table}[!htbp]\centering
+\caption{Exposure-support diagnostics for main ULEZ exposure mappings}
+\label{tab:ulez_support_protocol}
+\begin{threeparttable}
+\begin{tabular}{lrrrr}
+\toprule
+Exposure mapping & $D=0,S=0$ & $D=0,S>0$ & $D=1,S=0$ & $D=1,S>0$ \\
+\midrule
+Threshold 0--3 km & 6858 & 386 & 312 & 2582 \\
+Ring 2--5 km & 6399 & 845 & 16 & 2878 \\
+Ring 10--20 km & 4590 & 2654 & 412 & 2482 \\
+\midrule
+\multicolumn{5}{l}{Panel: 10138 station-months; 129 stations; 108 months; 2016-01-01--2024-12-01.} \\
+\multicolumn{5}{l}{Mean NO$_2$: 34.73 $\mu$g/m$^3$; treated observation share: 28.5\%.} \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}[flushleft]
+\footnotesize
+\item Notes: $D$ denotes direct treatment and $S>0$ denotes positive exposure under the corresponding matrix. The cell $D=0,S>0$ supports the currently untreated exposure parameter $\beta^u$; $D=1,S=0$ helps separate $\beta^d$ from the treated-exposure parameter $\beta^t$.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

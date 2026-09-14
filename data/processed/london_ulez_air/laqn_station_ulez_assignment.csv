@@ -1,0 +1,501 @@
+source,code,site,address,la_id,authority,site_type,os_grid_x,os_grid_y,latitude,longitude,opening_date,closing_date,inside_ulez_2019,inside_ulez_2021,inside_ulez_2023
+kcl,CTA,City of London - Bell Wharf Lane,Upper Thames Street by the entrance to Bell Wharf Lane,7,City of London,Roadside,532503,180797,51.51059691583911,-0.09210290319225942,2022-05-12T00:00:00Z,2023-07-03T00:00:00Z,TRUE,TRUE,TRUE
+kcl,HP0,Honor Oak Park XACT,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2018-11-27T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,SKC,Southwark - South Circular Road,"South Circular Road, Dulwich",28,Southwark,Roadside,533698,173268,51.442633,-0.077653974,2021-07-22T00:00:00Z,2025-03-31T00:00:00Z,FALSE,TRUE,TRUE
+kcl,MS3,Marylebone Road Aethalometer,"Cabin opposite Madame Tussauds, Marylebone Road",650,DEFRA Black Smoke,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,1997-08-12T09:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,SK8,Southwark - Tower Bridge Road,Tower Bridge Road,28,Southwark,Roadside,533488,179804,51.50139067120655,-0.07820343736069522,2019-06-01T00:00:00Z,2025-03-31T00:00:00Z,FALSE,TRUE,TRUE
+kcl,OP1,Honor Oak Park BL NOX,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2019-07-04T00:00:00Z,2019-11-06T00:00:00Z,FALSE,TRUE,TRUE
+kcl,KX8,Kings Cross - Tapestry Building,"Tapestry Building, 3 Canal Reach, London",503,Mobile sites,Urban Background,529903,183740,51.53759647960891,-0.12837368586581474,2019-08-27T00:00:00Z,2020-02-13T00:00:00Z,FALSE,TRUE,TRUE
+kcl,GV3,Westminster - Mount Street (Grosvenor),"128 Mount Street, Mayfair",500,ERG Research,Roadside,528409,180965,51.512999883209474,-0.15091348815921368,2019-10-29T12:00:00Z,2019-12-04T00:00:00Z,TRUE,TRUE,TRUE
+kcl,HPZ,Honor Oak Park LGR Multigas,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2018-11-27T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,MS5,Marylebone Road ACSM,"Cabin opposite Madame Tussauds, Marylebone Road",650,DEFRA Black Smoke,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,1997-08-12T09:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,HPX,Honor Oak Park Sonic Anemometer,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2018-11-27T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,SK9,Southwark - A2 Old Kent Road FIDAS,"Toys R Us, Old Kent Road, London",28,Southwark,Roadside,534844,177515,51.480499493646654,-0.05955289325734224,2010-11-24T00:00:00Z,2025-03-31T00:00:00Z,FALSE,TRUE,TRUE
+kcl,SKA,Southwark - Lower Road,Lower Road,28,Southwark,Roadside,535248,179313,51.49656041673212,-0.05305044725316119,2020-11-24T00:00:00Z,2025-03-31T00:00:00Z,FALSE,TRUE,TRUE
+kcl,SKB,Southwark - Vicarage Grove,Vicarage Grove,28,Southwark,Roadside,532904,176694,51.47358034796148,-0.08778185367544263,2021-01-26T00:00:00Z,2025-03-31T00:00:00Z,FALSE,TRUE,TRUE
+kcl,MS2,Marylebone Road SMPS 3083,"Cabin opposite Madame Tussauds, Marylebone Road",651,DEFRA Particles,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2005-05-28T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,BQ9,Bexley - Slade Green Fidas,"Whitehall Lane, Bexley",3,Bexley,Suburban,551864,176379,51.465983274666215,0.18487712699436917,2020-10-01T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,CE2,Waterloo Place (The Crown Estate),12 Waterloo Place,33,Westminster,Roadside,529662,180391,51.50758191377616,-0.1330683727040934,2020-12-21T00:00:00Z,NA,TRUE,TRUE,TRUE
+kcl,MS0,Marylebone Road XACT,"Cabin opposite Madame Tussauds, Marylebone Road",650,DEFRA Black Smoke,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2022-02-02T09:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,RHI,Richmond Upon Thames - Richmond,"29 Kew Rd, Richmond",27,Richmond,Kerbside,518074,175251,51.46389764906207,-0.3016850133789256,2025-02-05T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TL4,Greenwich - Tunnel Avenue,A102 Blackwall Tunnel Southern Approach,11,Greenwich,Roadside,539220,179250,51.495057,0.0041074676,2020-12-04T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,TL5,Newham - Hoola Tower,3 Tidal Basin Road,25,Newham,Roadside,539936,180732,51.508198,0.015002152,2021-03-08T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,TL6,Newham - Britannia Gate,Britannia Gate/Silvertown Way,25,Newham,Roadside,540336,180260,51.503858,0.020574415,2020-12-04T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,NM4,Newham - East Ham Town Hall,"East Ham Town Hall, Barking Road",25,Newham,Roadside,542634,183572,51.53301660401734,0.05500020644871278,2022-12-19T00:00:00Z,2024-04-02T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HP8,Honor Oak Park SMPS 3083,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2018-11-27T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,HPT,Honor Oak Park Total Carbon Analyser,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2018-11-27T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,MEA,Merton - Mitcham,"Upper Green West, Mitcham",24,Merton,Roadside,527759,168992,51.40554734418724,-0.16459689354070745,2025-03-18T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TH7,Tower Hamlets - King Edward Memorial Park,"King Edward Memorial Park, by Glamis Road",30,Tower Hamlets,Urban Background,535385,180748,51.509422879983475,-0.05052782328728315,2025-04-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,GT1,Kensington and Chelsea - Station Walk,"Station Walk, Lancaster West Estate, North Kensington",20,Kensington and Chelsea,Urban Background,523853,180969,51.51405198442891,-0.21653294737926335,2025-06-24T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,ST9,Sutton - Beddington Village,"Beddington Lane, by the entrance to Beddington Park",29,Sutton,Roadside,530127,165230,51.37120107731607,-0.13194882498809532,2020-10-16T00:00:00Z,2024-06-21T00:00:00Z,FALSE,FALSE,TRUE
+kcl,WME,Westminster - Queens Park Gardens,"Queen's Park Gardens, by Ilbert Street",33,Westminster,Urban Background,524353,182607,51.528662969755494,-0.2087536561830901,2025-07-03T00:00:00Z,2026-04-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HPA,Honor Oak Park ACSM,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2018-11-27T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,MS1,Marylebone Road - 3750 CPC,"Cabin opposite Madame Tussauds, Marylebone Road",651,DEFRA Particles,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2024-11-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,GV2,Westminster - Duke Street (Grosvenor),"78 Duke Street, Mayfair",33,Westminster,Roadside,528409,180965,51.512999883209474,-0.15091348815921368,2019-08-22T16:00:00Z,2024-01-08T00:00:00Z,TRUE,TRUE,TRUE
+kcl,MS6,Marylebone Road Metals Digitel,"Cabin opposite Madame Tussauds, Marylebone Road",650,DEFRA Black Smoke,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,1997-08-12T09:00:00Z,2025-11-17T00:00:00Z,FALSE,TRUE,TRUE
+kcl,MS7,Marylebone Road EC/OC Digitel,"Cabin opposite Madame Tussauds, Marylebone Road",650,DEFRA Black Smoke,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,1997-08-12T09:00:00Z,2025-11-17T00:00:00Z,FALSE,TRUE,TRUE
+kcl,CW3,Tower Hamlets - Jubilee Park,"Jubilee Park, Canary Wharf",12,Hackney,Urban Background,537660,180093,51.502987873145834,-0.0180219908165375,2022-01-17T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,MS4,Marylebone Road Total Carbon Analyser,"Cabin opposite Madame Tussauds, Marylebone Road",651,DEFRA Particles,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2022-12-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,OP3,Honor Oak Park Aethalometer,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2008-10-01T00:00:00Z,2021-10-12T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HK9,Hackney - Queensbridge Road,Queensbridge Road,12,Hackney,Roadside,533946,184034,51.539324,-0.070078971,2022-02-01T00:00:00Z,2022-07-18T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HN1,Hackney - Homerton Library,"Homerton Library, Homerton High Street",12,Hackney,Roadside,535868,185137,51.548747210344224,-0.04188069672245616,2022-04-01T00:00:00Z,2022-07-18T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HN0,Hackney - Amhurst Road,"Amhurst Road, Sandringham Road",12,Hackney,Roadside,534379,185243,51.55005599099689,-0.06330160267898635,2022-04-01T00:00:00Z,2022-07-18T00:00:00Z,FALSE,TRUE,TRUE
+kcl,OP2,Honor Oak Park NOX,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2019-07-04T00:00:00Z,2019-10-24T00:00:00Z,FALSE,TRUE,TRUE
+kcl,LW6,Lewisham - Laurence House Catford,"Laurence House, Catford",23,Lewisham,Roadside,537546,175610,51.4447808,-0.0221832,2021-11-09T00:00:00Z,2025-04-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,CT9,City of London - Guildhall,Guildhall,7,City of London,Urban Background,532487,181390,51.515907,-0.092023986,2022-01-24T00:00:00Z,2023-07-04T00:00:00Z,TRUE,TRUE,TRUE
+kcl,LW5,Lewisham - Deptford,"Crossfield Street, Deptford, Lewisham,",23,Lewisham,Urban Background,537228,177471,51.47953128382032,-0.02526060313401967,2019-09-20T00:00:00Z,2025-04-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,CE3,Regent Street (The Crown Estate),145-147 Regent Street,33,Westminster,Roadside,529218,180798,51.51137714489908,-0.13924936775702296,2022-11-02T00:00:00Z,NA,TRUE,TRUE,TRUE
+kcl,MEB,Merton - Plough Lane Wimbledon,"81 Plough Lane, Collier's Wood",24,Merton,Roadside,526215,171722,51.43042736905642,-0.18581182362025547,2025-03-26T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,ZR6,Dartford - Town Centre,"Junction at Instone Rd and Lower St, Dartford",56,Dartford,Roadside,554101,173839,51.442557781389,0.215950164318913,2025-07-01T00:00:00Z,NA,FALSE,FALSE,FALSE
+kcl,ZR5,Dartford - Bean Lane,"by 16 Hope Cottages, Bean Lane, Bean Interchange",56,Dartford,Roadside,558661,172650,51.43061744231022,0.280976036868921,2023-08-16T00:00:00Z,NA,FALSE,FALSE,FALSE
+kcl,WMD,Westminster - Elizabeth Bridge,"Elizabeth Bridge, St. James's, Victoria",33,Westminster,Roadside,528731,178664,51.49224823330245,-0.1471147529001863,2020-04-27T00:00:00Z,2026-04-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HP7,Honor Oak Park Digitel,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2018-11-27T00:00:00Z,2025-11-17T00:00:00Z,FALSE,TRUE,TRUE
+kcl,N7K,North Kensington Aethalometer 7wl,"Sion Manning School, St. Charles' square, North Kensington",650,DEFRA Black Smoke,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2019-11-07T09:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,HPY,Honor Oak Park Ammonia,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2018-11-27T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,ZR4,Dartford - St Clements 2,"London Road A226, Greenhithe",56,Dartford,Roadside,558487,174671,51.44882358115103,0.27937913022373917,2019-01-03T00:00:00Z,NA,FALSE,FALSE,FALSE
+kcl,ST1,Sutton - Robin Hood School,"Robin Hood Junior School, Thorncroft Road, Sutton",29,Sutton,Roadside,525680,164420,51.365744,-0.195563,1995-04-26T07:00:00Z,2002-04-26T00:00:00Z,FALSE,FALSE,TRUE
+kcl,EL1,Elmbridge - Bell Farm Hersham,"Bell Farm, Hersham",44,Elmbridge,Urban Background,511403,164915,51.372348248822675,-0.4009193944757753,2001-01-01T00:00:00Z,2009-04-06T00:00:00Z,FALSE,FALSE,FALSE
+kcl,EL2,Elmbridge - Esher High Street,Esher High Street,44,Elmbridge,Roadside,514024,164792,51.37072300284587,-0.36332059890337937,2005-09-20T00:00:00Z,2008-07-18T08:30:00Z,FALSE,FALSE,FALSE
+kcl,CT6,City of London - Walbrook Wharf,Upper Thames Street / Walbrook Wharf,7,City of London,Roadside,532527,180789,51.510499,-0.091634,2007-04-01T00:00:00Z,2023-01-09T00:00:00Z,TRUE,TRUE,TRUE
+kcl,CD4,Camden - St Martins College (NOX 1),"St Martins College, Southampton Row, NOX 1",6,Camden,Urban Background,530511,181665,51.518846,-0.12034,2007-06-22T00:00:00Z,2010-07-13T00:00:00Z,TRUE,TRUE,TRUE
+kcl,CD5,Camden - St Martins College (NOX 2),"St Martins College, Southampton Row, NOX 2",6,Camden,Urban Background,530511,181665,51.518846,-0.12034,2007-06-22T00:00:00Z,2011-01-15T00:00:00Z,TRUE,TRUE,TRUE
+kcl,LB0,Lambeth 5 - Test,"Vauxhall Cross Interchange, traffic island in middle of Bondway / Wandsworth Road",500,ERG Research,Roadside,530250,177750,51.48368689297115,-0.12558406537248795,2007-07-31T01:00:00Z,2007-09-04T00:00:00Z,FALSE,TRUE,TRUE
+kcl,GR4,Greenwich - Eltham,"ECC (Nature Study Centre), Bexley Road, Eltham",11,Greenwich,Suburban,543978,174655,51.45258,0.070766,1995-01-01T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,BQ1,Bexley 8 - Traffic(W slow - nearest BX8),Bexley 8 - Traffic(W slow - nearest BX8),3,Bexley,Kerbside,552566,175384,51.45685466039685,0.19454636263814784,2007-08-14T00:00:00Z,2010-04-13T00:00:00Z,FALSE,FALSE,TRUE
+kcl,SK1,Southwark - Larcom Street,"Environmental Services, Larcom Street, Elephant and Castle",28,Southwark,Urban Background,532240,178561,51.490548,-0.09661,1993-03-01T00:00:00Z,2009-06-17T12:00:00Z,FALSE,TRUE,TRUE
+kcl,HP2,Honor Oak Park SMPS,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.449695,-0.03742133,2018-11-27T00:00:00Z,2023-03-03T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HP6,Honor Oak Park URG,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2018-11-27T00:00:00Z,2020-08-26T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HP9,Honor Oak Park EC/OC Partisol,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2018-11-27T00:00:00Z,2022-07-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,ST4,Sutton - Wallington,Woodcote Road,29,Sutton,Kerbside,528925,163804,51.35865961249982,-0.14972394660492686,2002-07-17T00:00:00Z,2024-06-20T00:00:00Z,FALSE,FALSE,TRUE
+kcl,TH1,Tower Hamlets - Poplar,"Holy Family School, Shirbutt Street, LB Tower Hamlets, London",30,Tower Hamlets,Urban Background,537509,180867,51.510012,-0.019866,1994-01-04T17:00:00Z,2013-07-02T00:00:00Z,FALSE,TRUE,TRUE
+kcl,TH2,Tower Hamlets - Mile End Road,"Queen Mary University London, engineering building, by the junction of Mile End Road and Bancroft Road",30,Tower Hamlets,Roadside,535932,182223,51.522546256117074,-0.04208230406353116,1994-03-10T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,TH3,Tower Hamlets - Bethnal Green,Bethnal Green Library,30,Tower Hamlets,Urban Background,535100,182664,51.526737,-0.053869,1999-10-24T12:00:00Z,2009-11-02T00:00:00Z,FALSE,TRUE,TRUE
+kcl,TK1,Thurrock - London Road (Grays),"London Road, Grays, Essex (poison store)",34,Thurrock,Urban Background,560900,177700,51.477076,0.317938,1995-01-01T00:00:00Z,NA,FALSE,FALSE,FALSE
+kcl,CT8,City of London - Upper Thames Street,Upper Thames Street,7,City of London,Roadside,532829,180694,51.50954368539127,-0.0873571979556188,2007-04-22T00:00:00Z,2021-09-13T00:00:00Z,TRUE,TRUE,TRUE
+kcl,TR1,Three Rivers - Rickmansworth,"Rectory Road, Rickmansworth, Three Rivers",150,Herts & Beds,Urban Background,505485,194482,51.639265,-0.477039,1999-02-28T18:00:00Z,2011-11-01T00:00:00Z,FALSE,FALSE,FALSE
+kcl,WA2,Wandsworth - Wandsworth Town Hall,"Town Hall, Wandworth High Street, Wandsworth, London",32,Wandsworth,Urban Background,525774,174660,51.456962,-0.191074,1994-10-11T14:00:00Z,2024-01-24T00:00:00Z,FALSE,TRUE,TRUE
+kcl,WA4,Wandsworth - High Street,"South Thames College, Wandsworth High Street",32,Wandsworth,Roadside,525772,174605,51.45643540373125,-0.1911574083429266,1998-01-31T23:00:00Z,2007-08-30T08:45:00Z,FALSE,FALSE,TRUE
+kcl,WF1,Watford (Roadside),"Town Hall, Watford",150,Herts & Beds,Roadside,510540,196780,51.658917301181326,-0.40332975360163115,1997-03-13T12:00:00Z,2008-01-01T00:00:00Z,FALSE,FALSE,FALSE
+kcl,WL1,Waltham Forest - Dawlish Road,Dawlish Road,31,Waltham Forest,Urban Background,538389,186723,51.562422,-0.004891,1998-07-05T08:00:00Z,2011-04-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,ZG2,Gravesham Roadside - A2,"Painters Ash School, Masefield Rd, Northfleet",100,Kent,Roadside,562589,172076,51.42434809704518,0.33716787344345295,1998-12-31T23:00:00Z,NA,FALSE,FALSE,FALSE
+kcl,ZG3,Gravesham Ind Bgd - Northfleet,"Lawn High School, High Street, Northfleet",100,Kent,Urban Background,562154,174363,51.44501921133393,0.33196307378844614,1999-01-01T13:00:00Z,NA,FALSE,FALSE,FALSE
+kcl,ST3,Sutton - Carshalton,Carshalton Ecology Centre,29,Sutton,Suburban,527776,164513,51.365318,-0.165936,1995-05-05T07:00:00Z,2016-07-13T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BB1,Broxbourne (Roadside),"Hertford Road (M25), Broxbourne",150,Herts & Beds,Roadside,536113,200083,51.682992438758795,-0.03254972255166203,2001-09-13T16:00:00Z,2009-04-01T00:00:00Z,FALSE,FALSE,FALSE
+kcl,BG1,Barking and Dagenham - Rush Green,Rush Green,1,Barking and Dagenham,Suburban,551053,187233,51.563752,0.177891,1999-11-02T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,RIV,Richmond Mobile - Mortlake Rd Kew,"Richmond Mobile Site - Mortlake Road, Kew",503,Mobile sites,Roadside,519584,176495,51.47476129137774,-0.27953813393966076,2008-01-08T10:00:00Z,2009-01-07T10:00:00Z,FALSE,TRUE,TRUE
+kcl,MR5,Marylebone Road - ClearfLo Partisol,"Cabin opposite Madame Tussauds, Marylebone Road",500,ERG Research,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2016-05-11T00:00:00Z,2016-06-11T00:00:00Z,FALSE,TRUE,TRUE
+kcl,XL2,Heygate Intel 2,Walworth Rd,500,ERG Research,Urban Background,532101,178832,51.49298137880028,-0.09853789104818315,2015-04-13T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,IT2,Tower Hamlets - Mile End Road,"Queen Mary and Westfield College, Engineering Department, corner of Bancroft and Mile End Roads",504,Indoor Air,Roadside,535927,182221,51.522529486084395,-0.0421550991900347,2009-09-29T00:00:00Z,2009-10-15T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HF2,Hammersmith and Fulham - Brook Green,"Hammersmith & Fulham 2 - Brook Green,London.",13,Hammersmith and Fulham,Urban Background,523625,179010,51.49649617867636,-0.2205029810777032,2003-07-28T12:00:00Z,2009-01-21T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HS2,Hounslow - Cranford,"Avenue Park, Cranford",18,Hounslow,Suburban,510371,177198,51.482982,-0.411895,1999-01-02T18:00:00Z,2012-04-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,HV1,Havering - Rainham,"Brenda Blakemore Community Centre, Chandlers Corner, New Road (A13), Rainham",16,Havering,Roadside,553110,182516,51.52078745933396,0.2054607056940439,1995-12-08T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,HV3,Havering - Romford,Oldchurch Hospital,16,Havering,Roadside,551105,188261,51.572976,0.179079,1998-12-22T10:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,ZR1,Dartford - St Clements,"London Road A226, Greenhithe",56,Dartford,Kerbside,558525,174709,51.44915436033384,0.2799425292644891,1999-06-21T11:00:00Z,2018-03-22T00:00:00Z,FALSE,FALSE,FALSE
+kcl,ZR2,Dartford Roadside 2 - Town Centre,"Instone Street, Dartford Town Centre
+",56,Dartford,Roadside,554117,173852,51.44267023405032,0.21618585666218135,2002-11-05T16:00:00Z,2023-02-23T00:00:00Z,FALSE,FALSE,FALSE
+kcl,ZR3,Dartford Roadside 3 - Bean Interchange,"Ightham Cottages, Bean
+",56,Dartford,Roadside,558622,172752,51.431544761664945,0.2804611330370192,2002-11-15T04:00:00Z,2020-10-12T00:00:00Z,FALSE,FALSE,FALSE
+kcl,ZV1,Sevenoaks - Greatness Park,"Greatness Sportsground, Sevenoaks",37,Sevenoaks,Urban Background,553601,156774,51.289391,0.201437,1998-01-27T14:15:00Z,2024-04-03T00:00:00Z,FALSE,FALSE,FALSE
+kcl,ZY2,Canterbury Roadside - St Dunstans,"St Dunstan's, Canterbury",100,Kent,Roadside,614280,158270,51.373567764820145,-0.29172503796786736,1999-02-08T12:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,HS1,Hounslow - Brentford,"Env. Services Dept, Glenhurst Road, Hounslow",18,Hounslow,Roadside,517500,178100,51.489321,-0.310002,1993-04-01T00:00:00Z,2003-01-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BG3,Barking and Dagenham - North Street,"North Street, Barking",1,Barking and Dagenham,Kerbside,543955,184432,51.540444,0.074418,2007-03-16T00:00:00Z,2011-05-25T00:00:00Z,FALSE,FALSE,TRUE
+kcl,HS5,Hounslow - Brentford,Brentford,18,Hounslow,Roadside,517423,178070,51.489398,-0.310081,2003-06-02T13:00:00Z,2012-04-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,TK2,Thurrock - Purfleet,"Entrance to High House Farm, London Road, Purfleet, Essex",34,Thurrock,Roadside,556738,177928,51.47857254969798,0.25567328280543816,2003-05-01T14:00:00Z,2008-04-04T00:00:00Z,FALSE,FALSE,FALSE
+kcl,BT4,Brent - Ikea,"Brent Park Ikea, Drury Way",4,Brent,Roadside,520866,185169,51.552476,-0.258089,2003-06-20T06:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,WL3,Waltham Forest - Chingford,"Chingford Rugby Club, Chingford, Waltham Way",31,Waltham Forest,Roadside,536975,193674,51.6251928602333,-0.02259732510920369,2003-07-14T12:00:00Z,2007-04-18T00:00:00Z,FALSE,FALSE,TRUE
+kcl,WL5,Waltham Forest - Leyton,"Ruckholt Close, Leyton",31,Waltham Forest,Roadside,537802,186021,51.556257676576,-0.013629679065,2007-09-20T00:00:00Z,2011-04-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,WM1,Unknown old Westminster site,Westminster (unknown - Paddington perhaps),500,ERG Research,Urban Background,529802,178962,51.494681629913394,-0.1315870572449855,1993-01-01T00:00:00Z,1995-09-30T00:00:00Z,TRUE,TRUE,TRUE
+kcl,HP4,Honor Oak Park CPC,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2018-11-27T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,HP1,Lewisham - Honor Oak Park,"King's College Sports Ground, Honor Oak Park",23,Lewisham,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2018-11-27T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,HP3,Honor Oak Park Aethalometer,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2008-10-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,NK2,North Kensington SMPS,"Sion Manning School, St. Charles' square, North Kensington",651,DEFRA Particles,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2005-10-17T00:00:00Z,2018-11-08T00:00:00Z,FALSE,TRUE,TRUE
+kcl,KC8,North Kensington - Nitrate,"Sion Manning School, St. Charles' square, North Kensington",651,DEFRA Particles,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2005-01-01T00:00:00Z,2010-01-01T17:15:00Z,FALSE,TRUE,TRUE
+kcl,WM5,Westminster - Covent Garden,"London Transport Museum, 39 Wellington Street",33,Westminster,Urban Background,530444,180903,51.51197698257983,-0.12162720332856006,2009-07-10T00:00:00Z,2026-04-01T00:00:00Z,TRUE,TRUE,TRUE
+kcl,WL4,Waltham Forest - Crooked Billet,"Chingford Mount Road, Chingford",31,Waltham Forest,Kerbside,537466,191071,51.601718495597,-0.016498263136,2007-11-01T00:00:00Z,2011-04-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RIU,Richmond Mobile - Mortlake Rd Kew,"Richmond Mobile Site - Mortlake Road, Kew",503,Mobile sites,Roadside,519584,176495,51.47476129137774,-0.27953813393966076,2008-01-08T10:00:00Z,2009-01-07T10:00:00Z,FALSE,TRUE,TRUE
+kcl,IC6,City of London - Walbrook Wharf Indoor,"Walbrook Wharf, Upper Thames Street",504,Indoor Air,Roadside,532527,180789,51.510468241313376,-0.09167067550224477,2008-05-08T00:00:00Z,2011-09-21T00:00:00Z,TRUE,TRUE,TRUE
+kcl,RIE,Richmond Mobile - Richmond Rd Twickenham,"Richmond Mobile Site - Richmond Road, Twickenham",503,Mobile sites,Roadside,516750,173750,51.450681599971446,-0.3212304915307558,2003-02-25T00:00:00Z,2003-05-20T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RIF,Richmond Mobile - Richmond Rd Twickenham,"Richmond Mobile Site - Richmond Road, Twickenham",503,Mobile sites,Roadside,516750,173750,51.450681599971446,-0.3212304915307558,2003-02-25T00:00:00Z,2003-05-20T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RIC,Richmond Mobile - Kew Rd,Richmond Mobile Site - Kew Road,503,Mobile sites,Kerbside,518094,175267,51.464037281017454,-0.3013919048574139,2002-11-19T11:30:00Z,2003-02-24T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RID,Richmond Mobile - Kew Rd,Richmond Mobile Site - Kew Road,503,Mobile sites,Kerbside,518094,175267,51.464037281017454,-0.3013919048574139,2002-11-19T11:30:00Z,2003-02-24T00:00:00Z,FALSE,FALSE,TRUE
+kcl,LB4,Lambeth - Brixton Road,Brixton Road,22,Lambeth,Kerbside,531070,175593,51.46411354116195,-0.11458102695123017,2003-12-18T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,RIG,Richmond Mobile - Upper Teddington Rd,Richmond Mobile Site - Upper Teddington Road,503,Mobile sites,Roadside,517250,170250,51.419121654022206,-0.3151959687851841,2003-05-21T00:00:00Z,2004-02-03T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RIH,Richmond Mobile - Upper Teddington Rd,Richmond Mobile Site - Upper Teddington Road,503,Mobile sites,Roadside,517250,170250,51.419121654022206,-0.3151959687851841,2003-05-21T00:00:00Z,2004-02-03T00:00:00Z,FALSE,FALSE,TRUE
+kcl,MY7,Westminster - Marylebone Road FDMS,"Cabin opposite Madame Tussauds, Marylebone Road",33,Westminster,Kerbside,528125,182016,51.52254,-0.15459,2004-01-22T12:00:00Z,2021-12-21T08:00:00Z,FALSE,TRUE,TRUE
+kcl,RII,Richmond Mobile - Somerset Rd Teddington,"Richmond Mobile Site - Somerset Road, Teddington",503,Mobile sites,Urban Background,515750,171250,51.42841736787292,-0.33643158245696286,2004-02-04T00:00:00Z,2004-04-26T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RIJ,Richmond Mobile - Somerset Rd Teddington,"Richmond Mobile Site - Somerset Road, Teddington",503,Mobile sites,Urban Background,515750,171250,51.42841736787292,-0.33643158245696286,2004-02-04T00:00:00Z,2004-04-26T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BT5,Brent - Neasden Lane,"Neasden Lane, Neasden",4,Brent,Industrial,521511,185204,51.552656,-0.248774,2004-02-29T23:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,BX6,Bexley - Thames Road North FDMS,"Thames Rd, Bexley (north)",3,Bexley,Roadside,552615,175416,51.457159,0.195294,2004-04-08T00:00:00Z,2010-03-23T00:00:00Z,FALSE,FALSE,TRUE
+kcl,EN5,Enfield - Bowes Primary School,"Bowes Primary School, A406, Bowes Road",10,Enfield,Roadside,529894,192223,51.613865,-0.125338,2004-07-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,A30,Kingston - Kingston Bypass A3,"A3, North Surbiton",21,Kingston,Roadside,518983,165220,51.37355334864803,-0.2919698278714311,1997-03-20T00:00:00Z,2007-09-30T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BL0,Camden - Bloomsbury,"Russell Square Gardens, Bloomsbury",6,Camden,Urban Background,530123,182014,51.522287,-0.125848,1992-01-23T00:00:00Z,NA,TRUE,TRUE,TRUE
+kcl,MY1,Westminster - Marylebone Road,"Cabin opposite Madame Tussauds, Marylebone Road",33,Westminster,Kerbside,528125,182016,51.52254,-0.15459,1997-05-26T12:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,MY2,Marylebone Road,"Cabin opposite Madame Tussauds, Marylebone Road",501,Marylebone Road,Kerbside,528125,182016,51.52236670521651,-0.15469999607315396,1997-08-12T09:00:00Z,2012-09-26T12:00:00Z,TRUE,TRUE,TRUE
+kcl,MY3,Marylebone Road,"Cabin opposite Madame Tussauds, Marylebone Road",501,Marylebone Road,Kerbside,528125,182016,51.52236670521651,-0.15469999607315396,1998-01-06T15:00:00Z,2003-06-01T00:00:00Z,TRUE,TRUE,TRUE
+kcl,RB1,Redbridge - Perth Terrace,Perth Terrace,26,Redbridge,Urban Background,544377,187647,51.569221,0.081821,1999-11-21T10:00:00Z,2014-05-13T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RB2,Redbridge - Ilford Broadway,Ilford Broadway,26,Redbridge,Kerbside,543594,186418,51.558346186515685,0.06999150952380288,1999-12-01T14:00:00Z,2003-06-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,NK8,North Kensington - CO High Sensitivity,"Sion Manning School, St. Charles' square",500,ERG Research,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2011-04-12T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,HG4,Haringey  - Priory Park South,"Service Yard, Priory Park, Barrington Rd",14,Haringey,Urban Background,529977,188903,51.58397690077088,-0.12540027848488472,2012-10-25T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,XL1,Heygate Intel 1,Walworth Rd,500,ERG Research,Urban Background,532101,178832,51.49298137880028,-0.09853789104818315,2015-04-13T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,RB3,Redbridge - Fullwell Cross,Fullwell Cross,26,Redbridge,Kerbside,544555,190402,51.593935,0.085516,1999-11-20T14:00:00Z,2012-03-30T10:45:00Z,FALSE,FALSE,FALSE
+kcl,RB4,Redbridge - Gardner Close,Gardner Close,26,Redbridge,Roadside,540823,188369,51.57661,0.030858,1999-11-21T13:00:00Z,2024-04-03T00:00:00Z,FALSE,TRUE,TRUE
+kcl,RI1,Richmond Upon Thames - Castelnau,"Castelnau Library grounds, Castelnau, Richmond",27,Richmond,Roadside,522498,177165,51.480189,-0.237335,2000-06-14T00:15:00Z,NA,FALSE,TRUE,TRUE
+kcl,RI2,Richmond Upon Thames - Barnes Wetlands,"Barnes Wetlands Center, Richmond",27,Richmond,Suburban,522989,176729,51.476168,-0.230427,2001-03-29T10:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,ST2,Sutton - North Cheam,St. Cecilias Junior School,29,Sutton,Urban Background,523840,165740,51.37718921383336,-0.22204407743693128,1995-04-25T17:00:00Z,2002-05-03T00:00:00Z,FALSE,FALSE,TRUE
+kcl,CR5,Croydon - Norbury,"London Road, Norbury",8,Croydon,Kerbside,530626,169707,51.411349,-0.12311,2000-10-05T11:15:00Z,NA,FALSE,FALSE,TRUE
+kcl,CR6,Croydon - Euston Road,Euston Road,8,Croydon,Suburban,531369,166096,51.37869789697186,-0.1137964033325394,2001-01-26T08:00:00Z,2009-05-22T00:00:00Z,FALSE,FALSE,TRUE
+kcl,CY1,Crystal Palace - Crystal Palace Parade,"Crystal Palace Parade, Crystal palace, opp shell garage",8,Croydon,Roadside,533901,171290,51.424812,-0.075449,1999-09-29T23:00:00Z,2010-07-29T00:00:00Z,FALSE,FALSE,TRUE
+kcl,EN1,Enfield - Bush Hill Park,"Bushill Library, Main Avenue",10,Enfield,Suburban,533900,195800,51.645036726660216,-0.0661800662229116,1995-06-29T08:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,EN2,Enfield - Church Street,Church Street,10,Enfield,Roadside,532630,196590,51.65243649797487,-0.08422462430689796,1997-12-21T16:00:00Z,2006-09-14T00:00:00Z,FALSE,FALSE,TRUE
+kcl,EN3,Enfield - Salisbury School,Salisbury,10,Enfield,Urban Background,535440,195000,51.63747948587686,-0.04424614061215925,1998-11-03T10:00:00Z,2008-07-28T00:00:00Z,FALSE,FALSE,TRUE
+kcl,EN4,Enfield - Derby Road,Derby Road,10,Enfield,Roadside,535056,192470,51.614864007,-0.0507658363689,2000-02-29T09:15:00Z,NA,FALSE,FALSE,TRUE
+kcl,GB6,Greenwich - Falconwood,Crown Woods Way,3,Bexley,Roadside,544997,175098,51.4563,0.085606,2000-10-18T09:15:00Z,NA,FALSE,FALSE,TRUE
+kcl,RHG,Richmond Upon Thames - Chertsey Road,Outside Richmond Upon Thames College near the junction of Egerton Road and Chertsey Road,27,Richmond,Roadside,515355,173992,51.45314225110043,-0.34121813810646934,2016-05-24T00:00:00Z,2020-08-06T00:00:00Z,FALSE,FALSE,TRUE
+kcl,GR5,Greenwich - Trafalgar Road,Trafalgar Road,11,Greenwich,Roadside,538960,177954,51.48344906646007,-1.4556268319880947e-4,1996-11-27T00:00:00Z,2015-12-02T00:00:00Z,FALSE,TRUE,TRUE
+kcl,GR7,Greenwich - Blackheath,Blackheath Hill,11,Greenwich,Roadside,538141,176710,51.472504,-0.012381,2002-03-08T11:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,HF1,Hammersmith and Fulham - Broadway,"Hammersmith Broadway, opp tube station",13,Hammersmith and Fulham,Roadside,523420,178590,51.49276633952344,-0.22360133828445497,1999-08-23T18:15:00Z,2009-01-20T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HG1,Haringey - Haringey Town Hall,"Env. Services Dept, Haringey Council Offices, High Road (A10)",14,Haringey,Roadside,533891,190707,51.599302,-0.068218,1994-11-29T12:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,HG2,Haringey - Priory Park,"The bowling green pavilion, Priory Park, Priory Road, Hornsey",14,Haringey,Urban Background,529894,189125,51.586029,-0.126486,1996-03-29T00:00:00Z,2012-10-25T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HI1,Hillingdon - South Ruislip,South Ruislip,17,Hillingdon,Roadside,510835,184916,51.552264,-0.402779,1994-01-01T00:00:00Z,2011-06-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,HI2,Hillingdon - Hillingdon Hospital,Field Heath Rd jnc Colham Rd,17,Hillingdon,Roadside,506990,181925,51.526115,-0.459128,2002-09-25T11:30:00Z,2011-06-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,HK4,Hackney - Clapton,"College Buildings, on Roundabout, Clapton Road (A107)",12,Hackney,Urban Background,534830,186234,51.558884,-0.056388,1993-10-08T16:15:00Z,2011-08-31T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HK6,Hackney - Old Street,Old Street,12,Hackney,Roadside,532947,182575,51.526454,-0.08491,2000-05-31T23:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,HM1,Hertsmere Borehamwood 1 (Background),"Furzehill School, Furzehill Road, Borehamwood, Hertsmere",150,Herts & Beds,Urban Background,519450,196300,51.65278245783736,-0.2747429587419337,1998-01-02T00:15:00Z,2005-10-26T00:00:00Z,FALSE,FALSE,FALSE
+kcl,HR1,Harrow - Stanmore,"Harrow - Aylward School, Stanmore",15,Harrow,Urban Background,517877,192314,51.617327,-0.298775,1999-04-10T10:00:00Z,2023-08-14T00:00:00Z,FALSE,FALSE,TRUE
+kcl,HR2,Harrow - Pinner Road,"Pinner Road, North Harrow",15,Harrow,Roadside,513504,188998,51.588417,-0.362989,2003-06-16T00:00:00Z,2023-07-31T00:00:00Z,FALSE,FALSE,TRUE
+kcl,EA6,Ealing - Hanger Lane Gyratory,Hanger Lane,9,Ealing,Roadside,518537,182708,51.53085,-0.292488,2003-08-04T00:00:00Z,2026-01-05T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HS3,Hounslow - Brentford,code for wsr,18,Hounslow,Roadside,517500,178100,51.489321,-0.310002,1999-03-20T12:00:00Z,2003-01-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,SK2,Southwark - Old Kent Road,"Livesey Museum, 682 Old Kent Road SE15",28,Southwark,Roadside,534620,177670,51.48194567929264,-0.06271762351716886,1994-05-03T00:00:00Z,2006-04-21T00:00:00Z,FALSE,TRUE,TRUE
+kcl,NK1,North Kensington - CPC,"Sion Manning School, St. Charles' square, North Kensington",651,DEFRA Particles,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2005-05-28T00:00:00Z,2018-11-08T00:00:00Z,FALSE,TRUE,TRUE
+kcl,RIQ,Richmond Mobile - Richmond Rd Twickenham,"Richmond Mobile Site - York House Gardens, Richmond Road, Twickenham",503,Mobile sites,Roadside,516509,173500,51.44848427302559,-0.32477938772455733,2005-07-19T00:00:00Z,2006-07-24T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RIR,Richmond Mobile - Richmond Rd Twickenham,"Richmond Mobile Site - York House Gardens, Richmond Road, Twickenham",503,Mobile sites,Roadside,516750,173250,51.446187775334,-0.3213952976937875,2005-07-19T00:00:00Z,2006-07-24T00:00:00Z,FALSE,FALSE,TRUE
+kcl,ZV2,Sevenoaks - Bat and Ball,"A225 Otford Road, Bat and Ball, Sevenoaks",37,Sevenoaks,Roadside,553047,156691,51.28876814431679,0.1934209069063184,2005-08-11T00:00:00Z,2024-04-03T00:00:00Z,FALSE,FALSE,FALSE
+kcl,IS3,Islington Black Smoke (ISLINGTON 9),Islington,650,DEFRA Black Smoke,Urban Background,531600,184200,51.5413375433481,-0.10374781788298695,1982-03-30T00:00:00Z,2001-04-02T00:00:00Z,FALSE,TRUE,TRUE
+kcl,EG2,Ealing Black Smoke (EALING 7),Ealing,650,DEFRA Black Smoke,Urban Background,517400,180700,51.51301080898379,-0.3095726332331101,1988-03-29T00:00:00Z,2002-04-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RB6,Ilford Black Smoke (ILFORD 6),Ilford,650,DEFRA Black Smoke,Urban Background,544000,186400,51.55808104071373,0.07583668387177266,1971-03-30T00:00:00Z,2003-03-31T00:00:00Z,FALSE,FALSE,TRUE
+kcl,EN6,Enfield Black Smoke (ENFIELD 14),Enfield,650,DEFRA Black Smoke,Urban Background,533800,195800,51.64506050725346,-0.06762445127201172,1961-04-04T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,GR2,Greenwich Black Smoke (GREENWICH 9),Greenwich High Road,650,DEFRA Black Smoke,Urban Background,538200,177300,51.477758245178194,-0.01133934128410052,1973-04-03T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,CT5,City of London Black Smoke (CITY 16),City of London - Guildhall,650,DEFRA Black Smoke,Urban Background,532400,181400,51.515988695113066,-0.09327039942648332,1972-03-28T00:00:00Z,NA,TRUE,TRUE,TRUE
+kcl,WM2,Westminster Black Smoke (WESTMINSTER 17),Westminster,650,DEFRA Black Smoke,Urban Background,529802,178962,51.494681629913394,-0.1315870572449855,1986-04-01T00:00:00Z,NA,TRUE,TRUE,TRUE
+kcl,BX0,Bexley - Belvedere FDMS,"Belvedere Infants Sch, Mitchel Cl, Belvedere",3,Bexley,Suburban,549980,179064,51.49061020821466,0.15891449392751836,2004-04-28T00:00:00Z,2022-01-28T00:00:00Z,FALSE,FALSE,TRUE
+kcl,LB5,Lambeth - Bondway Interchange,"Vauxhall Cross Interchange, traffic island in middle of Bondway / Wandsworth Road",22,Lambeth,Industrial,530317,177952,51.48548677397285,-0.12454523481921348,2005-02-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,EG1,Ealing - Acton Town Hall (Partisol),"Acton Town Hall, Acton High Street",9,Ealing,Roadside,520304,180054,51.506594733776176,-0.26796437802595297,2005-09-01T00:00:00Z,2006-10-04T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HM4,Hertsmere - Borehamwood,"Hertswood School Upper Site, Thrift Farm Lane, Borehamwood, Hertfordshire",150,Herts & Beds,Urban Background,520248,197246,51.661149780061,-0.26285819929300003,2005-11-05T00:00:00Z,2011-04-01T00:00:00Z,FALSE,FALSE,FALSE
+kcl,ST5,Sutton - Beddington Lane north,"Junction of Brookmead Road & Beddington Lane, Sutton",29,Sutton,Industrial,529400,167224,51.389286904505035,-0.14166152477989347,2005-12-01T00:00:00Z,2024-06-20T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BY8,Bromley 8 - TECO NOX,"Portacabin, End of Harwood Avenue",500,ERG Research,Roadside,540400,169400,51.406228100662425,0.01718863200051963,1998-08-18T00:00:00Z,2000-07-25T00:00:00Z,FALSE,FALSE,TRUE
+kcl,EA4,Ealing Mobile - Hamilton Road,"Hamilton Road, Southall",503,Mobile sites,Roadside,512900,180350,51.510781304515085,-0.37450426680677545,1998-11-30T00:00:00Z,1999-03-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,EA5,Ealing Mobile - Southall,"High St,Southall",503,Mobile sites,Roadside,513100,180350,51.510741348279055,-0.37162351877310096,1999-03-01T00:00:00Z,2001-06-21T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RI7,Richmond Mobile - Richmond Park,"Richmond Mobile Site - Holly Lodge, Richmond Park",503,Mobile sites,Suburban,520690,173230,51.445182924202605,-0.26473426946725304,2002-04-28T00:00:00Z,2002-09-10T00:00:00Z,FALSE,FALSE,TRUE
+kcl,KG2,Kensington and Chelsea - Green Screen BG,"Warwick Road, Earls Court",20,Kensington and Chelsea,Urban Background,525509,178268,51.48941311443219,-0.19364088615894923,2013-10-30T00:00:00Z,2014-10-31T00:00:00Z,FALSE,TRUE,TRUE
+kcl,RI8,Richmond Mobile - Richmond Park,"Richmond Mobile Site - Holly Lodge, Richmond Park",503,Mobile sites,Suburban,520690,173230,51.445182924202605,-0.26473426946725304,2002-04-28T00:00:00Z,2002-09-10T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RIA,Richmond Mobile - George Street,"Richmond Mobile Site - George Street, Richmond",503,Mobile sites,Kerbside,517847,174890,51.46070040645901,-0.3050714036332836,2002-09-16T00:00:00Z,2002-11-19T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RIB,Richmond Mobile - George Street,"Richmond Mobile Site - George Street, Richmond",503,Mobile sites,Kerbside,517847,174890,51.46070040645901,-0.3050714036332836,2002-09-16T00:00:00Z,2002-11-19T00:00:00Z,FALSE,FALSE,TRUE
+kcl,MR3,Marylebone Road Aethalometer,"Cabin opposite Madame Tussauds, Marylebone Road",650,DEFRA Black Smoke,Kerbside,528125,182016,51.52236670521651,-0.15469999607315396,1997-08-12T09:00:00Z,2023-01-31T00:00:00Z,TRUE,TRUE,TRUE
+kcl,CO1,CONCAWE - Hyde Park,Marylebone Road - Partisol PM10 (EC/OC),500,ERG Research,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2006-01-31T00:00:00Z,2007-03-05T00:00:00Z,FALSE,TRUE,TRUE
+kcl,BT7,Brent - St Marys Primary School,"St. Mary's Primary School, Canterbury Road, Kilburn",4,Brent,Urban Background,525173,183297,51.534718,-0.196664,2008-01-04T00:00:00Z,2010-12-21T00:00:00Z,FALSE,TRUE,TRUE
+kcl,LH1,UKMO Heathrow Airport,"Heathrow Airport, Harlington",500,ERG Research,Urban Background,507600,176700,51.47900761928988,-0.4519581970089758,1947-01-01T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,EI0,Ealing - Greenford,"Allington Close, Greenford",9,Ealing,Urban Background,514323,184070,51.54392962528617,-0.35280177604993324,2008-03-25T00:00:00Z,2009-04-15T00:00:00Z,FALSE,FALSE,TRUE
+kcl,TK8,Thurrock - London Road (Purfleet),"London Rd, Purfleet Essex",34,Thurrock,Roadside,556698,177937,51.478697,0.255133,2008-04-04T01:00:00Z,2025-04-01T00:00:00Z,FALSE,FALSE,FALSE
+kcl,TB1,Thurrock Black Smoke,"Thurrock, Essex",650,DEFRA Black Smoke,Rural,562200,179100,51.48756335233411,0.334796226699735,1993-03-30T00:00:00Z,2005-04-09T00:00:00Z,FALSE,FALSE,FALSE
+kcl,TL2,Roving Partisol PM2.5,TfL2 - TowerHamlets4,500,ERG Research,Roadside,538299,181449,51.51501700834212,-0.00829004890891997,2008-07-17T00:00:00Z,2022-03-03T00:00:00Z,FALSE,TRUE,TRUE
+kcl,TL1,Roving Partisol PM10,TfL1 - Brent4,500,ERG Research,Roadside,520712,185164,51.55243262739222,-0.2603388438690765,2008-07-17T00:00:00Z,2015-03-27T00:00:00Z,FALSE,FALSE,TRUE
+kcl,GR8,Greenwich - Woolwich Flyover,Woolwich Flyover,11,Greenwich,Roadside,540200,178367,51.486884,0.017901,2004-07-08T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,HS6,Hounslow - Heston Road,"Heston Road, Lampton",18,Hounslow,Roadside,513653,176842,51.479129,-0.36476,2006-04-13T00:00:00Z,2012-04-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,NK4,North Kensington - ClearfLo Partisol,"Sion Manning School, St. Charles' square, North Kensington",500,ERG Research,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2016-05-11T00:00:00Z,2016-06-27T00:00:00Z,FALSE,TRUE,TRUE
+kcl,IG4,Greenwich - Eltham Ecology Centre Indoor,"ECC (Nature Study Centre), Bexley Road",504,Indoor Air,Urban Background,543978,174655,51.45258,0.070766,2008-05-13T00:00:00Z,2011-06-16T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BX9,Bexley - Slade Green FDMS,"Whitehall Lane, Bexley",3,Bexley,Suburban,551864,176379,51.465983274666215,0.18487712699436917,2008-10-21T00:00:00Z,2020-10-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,GV1,Westminster - Ebury Street (Grosvenor),"133 Ebury Street, Belgravia",33,Westminster,Roadside,528350,178921,51.493492,-0.149906,2018-12-11T09:00:00Z,2023-11-15T00:00:00Z,FALSE,TRUE,TRUE
+kcl,ST6,Sutton - Worcester Park,"Opposite the Royal British Legion Building, 69-75 Central Road, Worcester Park",29,Sutton,Kerbside,522557,165787,51.377923,-0.240414,2008-11-04T00:00:00Z,2024-06-20T00:00:00Z,FALSE,FALSE,FALSE
+kcl,MR7,N7K,"Cabin opposite Madame Tussauds, Marylebone Road",500,ERG Research,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2019-03-01T00:00:00Z,2019-11-20T00:00:00Z,FALSE,TRUE,TRUE
+kcl,IS4,Islington - Foxham Gardens,Foxham Gardens,19,Islington,Urban Background,529610,186230,51.5600403385285,-0.13167942516384698,2006-04-20T00:00:00Z,2009-03-11T00:00:00Z,FALSE,TRUE,TRUE
+kcl,IS5,Islington - Duncan Terrace,Duncan Terrace,19,Islington,Roadside,531580,183190,51.53226588772746,-0.10441318651203732,2006-08-04T00:00:00Z,2009-03-11T00:00:00Z,FALSE,TRUE,TRUE
+kcl,RIS,Richmond Mobile - Lincoln Ave Twickenham,Richmond Mobile Site - Lincoln Avenue Twickenham,503,Mobile sites,Roadside,513975,172924,51.443822439896245,-0.3614137663406496,2006-07-24T00:00:00Z,2008-01-08T09:00:00Z,FALSE,FALSE,TRUE
+kcl,RIT,Richmond Mobile - Lincoln Ave Twickenham,Richmond Mobile Site - Lincoln Avenue Twickenham,503,Mobile sites,Roadside,513975,172924,51.443822439896245,-0.3614137663406496,2006-07-24T00:00:00Z,2008-01-08T09:00:00Z,FALSE,FALSE,TRUE
+kcl,BQ8,Bexley - Belvedere West FDMS,"Harris Garrad Academy, Yanton Way, Erith",3,Bexley,Urban Background,548465,179469,51.49464868130551,0.13727911123217845,2010-08-24T00:00:00Z,2022-02-23T00:00:00Z,FALSE,FALSE,TRUE
+kcl,WM8,Westminster - Victoria,"Victoria Palace Theatre, Victoria Street",33,Westminster,Urban Background,529042,179208,51.49706617757802,-0.14243882074012082,2014-01-06T00:00:00Z,2016-04-04T00:00:00Z,FALSE,TRUE,TRUE
+kcl,XL4,Heygate Intel 4,Walworth Rd,500,ERG Research,Urban Background,532101,178832,51.49298137880028,-0.09853789104818315,2015-04-13T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,RHA,Richmond Upon Thames - Lower Mortlake Rd,"Junction of West Sheen Vale & Lower Mortlake Road, Richmond",503,Mobile sites,Roadside,518557,175460,51.46567516829383,-0.29466538498547856,2011-01-12T00:00:00Z,2012-01-04T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RHB,Richmond - Lower Mortlake Road,"Junction of West Sheen Vale & Lower Mortlake Road, Richmond",503,Mobile sites,Roadside,518557,175460,51.46567516829383,-0.29466538498547856,2011-01-12T00:00:00Z,2012-01-04T00:00:00Z,FALSE,FALSE,TRUE
+kcl,HS8,Hounslow and Ealing - Gunnersbury Avenue,Gunnersbury Avenue junction with Ridgeway,18,Hounslow,Roadside,519180,179369,51.50067629857297,-0.28438316848128053,2012-02-09T00:00:00Z,2015-02-09T00:00:00Z,FALSE,TRUE,TRUE
+kcl,CR7,Croydon - Purley Way A23,"Purley Way, Waddon",8,Croydon,Roadside,531151,164258,51.36223056554028,-0.11760450735139232,2012-01-19T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,XL5,Heygate Intel 5,Walworth Rd,500,ERG Research,Urban Background,532101,178832,51.49298137880028,-0.09853789104818315,2015-04-13T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,RIW,Richmond - Upper Teddington Road,"Richmond Mobile Site - junction of Normansfield Avenue & Upper Teddington Road, Teddington",503,Mobile sites,Roadside,517245,170088,51.417695,-0.315291,2009-01-07T00:00:00Z,2010-01-05T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RIX,Richmond - Upper Teddington Road,"Richmond Mobile Site - junction of Normansfield Avenue & Upper Teddington Road, Teddington",503,Mobile sites,Roadside,517245,170088,51.41766668494043,-0.3153213723672818,2009-01-07T00:00:00Z,2010-01-05T00:00:00Z,FALSE,FALSE,TRUE
+kcl,EL3,Elmbridge - Hampton Court Parade,"Hampton Court Parade, East Mosely",44,Elmbridge,Roadside,515338,168292,51.401915376964006,-0.3433165075995512,2007-08-30T09:45:00Z,2009-04-08T00:00:00Z,FALSE,FALSE,FALSE
+kcl,EL4,Elmbridge - Walton High Street,"High Street, Walton-on-Thames",44,Elmbridge,Kerbside,510117,166354,51.38553284457508,-0.41894152327041306,2008-07-18T12:00:00Z,2009-04-08T00:00:00Z,FALSE,FALSE,FALSE
+kcl,KC6,Kens and Chelsea 6 - N Ken Par PM10,"Sion Manning School, St. Charles' square, North Kensington",500,ERG Research,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2000-09-07T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,LH3,T5 - Colnbrook,"Pippins School, Raymond Close, Colnbrook, Slough",500,ERG Research,Roadside,503535,176829,51.48092492885891,-0.5104344825245724,2001-01-01T00:00:00Z,NA,FALSE,FALSE,FALSE
+kcl,LH4,T5 - Main Road,"Main Road Nurseries, Stanwell Moor Road, Stanwell Moor",500,ERG Research,Urban Background,504780,175510,51.4688402823145,-0.4929032188543776,2001-05-04T12:00:00Z,NA,FALSE,FALSE,FALSE
+kcl,LH5,T5 - Moorbridge,"Bath Road, Colnbrook",500,ERG Research,Urban Background,504393,176591,51.47862817032087,-0.4981536533559228,2001-06-01T00:00:00Z,NA,FALSE,FALSE,FALSE
+kcl,LH6,T5 - Bedfont,"Bedfont Court, Spout Lane N., Stanwell Moor",500,ERG Research,Urban Background,504466,175794,51.471450973644046,-0.4973382560261495,2001-06-01T00:00:00Z,NA,FALSE,FALSE,FALSE
+kcl,LH7,T5 - Oaks Road,"Oaks Road, Stanwell",500,ERG Research,Roadside,505739,174497,51.45955692785932,-0.4794046291582035,2001-06-01T00:00:00Z,NA,FALSE,FALSE,FALSE
+kcl,LH8,T5 - Green Gates,"Green Gates Meadow, Bath Road, Longford",500,ERG Research,Urban Background,505185,176922,51.481456753973774,-0.4866548122443413,2001-06-01T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,LH9,M25 - Staines,"M25 Staines, clockwise between J13 and J14",500,ERG Research,Roadside,502760,173450,51.45069398762653,-0.5225720477124915,1995-05-18T19:00:00Z,NA,FALSE,FALSE,FALSE
+kcl,MG2,Marylebone Rd - Traffic,Marylebone Rd Traffic middle lane westbound,501,Marylebone Road,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,1998-07-09T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,MG3,Marylebone Rd - Traffic,Marylebone Rd Traffic offside lane westbound,501,Marylebone Road,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,1998-07-09T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,MG4,Marylebone Rd - Traffic,Marylebone Rd Traffic offside lane eastbound,501,Marylebone Road,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,1998-07-09T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,MG5,Marylebone Rd - Traffic,Marylebone Rd Traffic middle lane eastbound,501,Marylebone Road,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,1998-07-09T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,MG6,Marylebone Rd - Traffic,Marylebone Rd Traffic nearside lane eastbound,501,Marylebone Road,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,1998-07-09T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,MO1,Met Office - London Weather Centre,Roof of London Weather Centre,500,ERG Research,Urban Background,531000,181500,51.517213424766986,-0.1133979600093174,1989-01-01T00:00:00Z,1999-12-31T23:00:00Z,TRUE,TRUE,TRUE
+kcl,MY4,Marylebone Rd - Partisol PM10 and Magee,"Cabin opposite Madame Tussauds, Marylebone Road",501,Marylebone Road,Kerbside,528125,182016,51.52236670521651,-0.15469999607315396,2000-09-07T00:00:00Z,NA,TRUE,TRUE,TRUE
+kcl,MY5,Marylebone Rd - KFG and MAAP,"Cabin opposite Madame Tussauds, Marylebone Road",501,Marylebone Road,Kerbside,528125,182016,51.52236670521651,-0.15469999607315396,1999-06-03T00:00:00Z,NA,TRUE,TRUE,TRUE
+kcl,CT2,City of London - Farringdon Street,Farringdon Street,7,City of London,Kerbside,531624,181217,51.51452533623142,-0.10451562633787558,2003-01-01T00:00:00Z,2023-07-03T00:00:00Z,TRUE,TRUE,TRUE
+kcl,CT4,City of London - Beech Street,Beech Street,7,City of London,Roadside,532191,181866,51.52022527317103,-0.09610604741763812,2003-01-01T00:00:00Z,2023-07-03T00:00:00Z,TRUE,TRUE,TRUE
+kcl,EI1,Ealing - Western Avenue,Ealing - Western Avenue Acton,9,Ealing,Roadside,520430,181950,51.52360781914815,-0.26550263179975414,2010-03-19T00:00:00Z,2026-01-05T00:00:00Z,FALSE,TRUE,TRUE
+kcl,KX4,Camden - Coopers Lane,Coopers Lane,6,Camden,Industrial,529831,183250,51.533238,-0.129594,2009-07-01T00:00:00Z,2020-07-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,GB0,Greenwich - Falconwood FDMS,Crown Woods Way,3,Bexley,Roadside,544997,175098,51.4563,0.085606,2009-03-16T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,BG2,Barking and Dagenham - Scrattons Farm,"Scrattons Farm, Dagenham",1,Barking and Dagenham,Suburban,548043,183320,51.529389,0.132857,1999-10-17T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,WA7,Wandsworth - Putney High Street,94a Putney High Street,32,Wandsworth,Kerbside,524036,175336,51.463429,-0.215871,2009-07-09T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,NM2,Newham - Cam Road,"Cam Road, Newham",25,Newham,Roadside,538661,183969,51.537598,-0.002138,1998-08-18T00:00:00Z,2024-04-02T00:00:00Z,FALSE,TRUE,TRUE
+kcl,LW4,Lewisham - Loampit Vale,"Loampit Vale, Lewisham,",23,Lewisham,Roadside,537911,175838,51.46469106117357,-0.01606824320415275,2012-07-10T00:00:00Z,2025-04-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,XP4,Biomass Partisol - WM0,Horseferry Road,500,ERG Research,Urban Background,529802,178962,51.494681,-0.1315870572449855,2010-01-13T00:00:00Z,2010-03-01T00:00:00Z,TRUE,TRUE,TRUE
+kcl,XP5,Biomass Partisol - North Ken,"Sion Manning School, St. Charles' square, North Kensington",500,ERG Research,Urban Background,524046,181750,51.52102855414844,-0.21347843718641643,2010-01-13T00:00:00Z,2010-03-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,XP6,Biomass Partisol - EA7,"Blair Peach Primary School, Beaconsfield Road, Southall",500,ERG Research,Urban Background,511677,180071,51.508549,-0.392179,2010-01-13T00:00:00Z,2010-03-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,KSS,Kings Micromet Strand Building,"Strand Building, Strand Campus",500,ERG Research,Urban Background,530810,180912,51.51197332336479,-0.11635267927536017,2008-01-01T00:00:00Z,NA,TRUE,TRUE,TRUE
+kcl,XD1,Teddington Fidas 1,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2014-02-20T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,XL6,Heygate Intel 6,Walworth Rd,500,ERG Research,Urban Background,532101,178832,51.49298137880028,-0.09853789104818315,2015-04-13T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,HFX,Hammersmith and Fulham - Talgarth Road A,"Talgarth Road, Hammersmith",500,ERG Research,Roadside,NA,NA,51.504366,-0.08257,2015-10-01T00:00:00Z,2017-05-16T00:00:00Z,TRUE,TRUE,TRUE
+kcl,KSR,Kings Micromet Strand Bldg Sonic,"Kings Building, Strand Campus",500,ERG Research,Urban Background,530810,180912,51.51197332336479,-0.11635267927536017,2009-01-01T00:00:00Z,NA,TRUE,TRUE,TRUE
+kcl,VVR,Vaisala Road Sensor - Regents Park,"Regents Park Tube, Marylebone Road",500,ERG Research,Kerbside,528678,182166,51.52373176236828,-0.1466010555588864,2007-01-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,XT3,BT Tower - FDMS,BT Tower,500,ERG Research,Urban Background,529221,181920,51.52139718501779,-0.1388687072890943,2011-10-19T00:00:00Z,2013-02-11T00:00:00Z,TRUE,TRUE,TRUE
+kcl,NK9,North Kensington - AMS,"Sion Manning School, St. Charles' square",500,ERG Research,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2012-10-04T00:00:00Z,2019-02-19T00:00:00Z,FALSE,TRUE,TRUE
+kcl,XB2,Brent - Ikea,"Brent Park Ikea, Drury Way",500,ERG Research,Roadside,520866,185169,51.55244462586647,-0.25811705590204104,2015-05-18T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,EI7,Ealing - Southall FDMS,"Blair Peach Primary School, Beaconsfield Road, Southall",9,Ealing,Urban Background,511677,180071,51.50851648162426,-0.3922084591732923,2011-12-28T11:00:00Z,2016-01-26T00:00:00Z,FALSE,FALSE,TRUE
+kcl,ST8,Sutton - Beddington Lane,"Unit A, Prologis Park, 140-142 Beddington Lane",29,Sutton,Industrial,529781,166597,51.3835652277943,-0.1364178614733007,2012-04-04T00:00:00Z,2020-10-16T00:00:00Z,FALSE,FALSE,TRUE
+kcl,CO2,CO2 network,Various,500,ERG Research,Roadside,528125,182016,51.52250935974187,-0.1546221546568425,2010-01-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,XK5,North Kensington APS,NA,500,ERG Research,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2012-01-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,MR8,Marylebone Road - BAM,"Cabin opposite Madame Tussauds, Marylebo",33,Westminster,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2012-01-11T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,LO6,RBBS Kings Cross - Platform 0 Aethalometer,Kings Cross - Platform 0,508,RBBS,Industrial,530253,183117,51.53191728155268,-0.12356034107916816,2018-08-23T00:00:00Z,2018-08-23T00:00:00Z,FALSE,TRUE,TRUE
+kcl,RHC,Richmond Upon Thames - Craneford Way,"Council Depot, Craneford Way, Twickenham",503,Mobile sites,Industrial,515274,173535,51.44905133324299,-0.34253210361486974,2012-01-04T00:00:00Z,2016-05-24T00:00:00Z,FALSE,FALSE,TRUE
+kcl,XK3,North Kensington Aethalometer 7WL,NA,500,ERG Research,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2012-01-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,KT5,Kingston Upon Thames - Cromwell Road,Cromwell Rd,21,Kingston,Roadside,518562,169519,51.412308,-0.29658478,2018-03-12T00:00:00Z,2024-06-19T00:00:00Z,FALSE,FALSE,TRUE
+kcl,KT6,Kingston Upon Thames - Kingston Vale,Kingston Vale,21,Kingston,Roadside,521251,172166,51.43550066477731,-0.25702989376799334,2018-03-12T00:00:00Z,2024-06-19T00:00:00Z,FALSE,FALSE,TRUE
+kcl,MS9,Marylebone Road - Fidas,"Cabin opposite Madame Tussauds, Marylebone Road",500,ERG Research,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2017-02-20T00:00:00Z,2018-10-30T00:00:00Z,FALSE,TRUE,TRUE
+kcl,WMC,Westminster - Cavendish Square,"Cavendish Square, Marylebone",33,Westminster,Roadside,528763,181397,51.516801645206186,-0.145657269364411,2018-05-31T12:00:00Z,2023-06-08T00:00:00Z,TRUE,TRUE,TRUE
+kcl,LO1,RBBS Kings Cross - Platform 0,Kings Cross - Platform 0,508,RBBS,Industrial,530253,183117,51.53191728155268,-0.12356034107916816,2018-03-28T00:00:00Z,2018-12-19T00:00:00Z,FALSE,TRUE,TRUE
+kcl,LO2,RBBS Kings Cross - Platfom 4,Kings Cross - Platform 4,508,RBBS,Industrial,530253,183117,51.53191728155268,-0.12356034107916816,2018-03-28T00:00:00Z,2018-12-19T00:00:00Z,FALSE,TRUE,TRUE
+kcl,LO3,RBBS Kings Cross - Platfom 9,Kings Cross - Platform 9,508,RBBS,Industrial,530253,183117,51.53191728155268,-0.12356034107916816,2018-03-28T00:00:00Z,2018-12-19T00:00:00Z,FALSE,TRUE,TRUE
+kcl,LO4,RBBS Kings Cross - Gantry,Kings Cross - Gantry,508,RBBS,Industrial,530253,183117,51.53191728155268,-0.12356034107916816,2018-03-28T00:00:00Z,2018-12-19T00:00:00Z,FALSE,TRUE,TRUE
+kcl,GN6,Greenwich - John Harrison Way,Greenwich John Harrison Way,11,Greenwich,Roadside,539687,179123,51.493774669581846,0.01077962370325582,2018-07-02T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,RG7,Reigate and Banstead - A23 Hooley,A23 Hooley,40,Reigate and Banstead,Roadside,528804,156436,51.292470638126915,-0.1541214544006776,2018-07-17T00:00:00Z,2023-08-01T00:00:00Z,FALSE,FALSE,FALSE
+kcl,BQ2,Bexley 8 - Traffic(W fast),Bexley 8 - Traffic(W fast),3,Bexley,Kerbside,552566,175384,51.45685466039685,0.19454636263814784,2007-08-14T00:00:00Z,2010-04-13T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BQ3,Bexley 8 - Traffic(E fast),Bexley 8 - Traffic(E fast),3,Bexley,Kerbside,552566,175384,51.45685466039685,0.19454636263814784,2007-08-14T00:00:00Z,2010-04-13T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BQ4,Bexley 8 - Traffic(E slow - nearest BX7),Bexley 8 - Traffic(E slow - nearest BX7),3,Bexley,Kerbside,552566,175384,51.45685466039685,0.19454636263814784,2007-08-14T00:00:00Z,2010-04-13T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BT0,Brent 4 - aethalometer,"Brent Park Ikea, Drury Way",500,ERG Research,Roadside,520866,185169,51.55244462586647,-0.25811705590204104,2010-09-08T00:00:00Z,2021-09-16T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BY6,Bromley TR Calibrate,"Careers Service Centre, Tweedy Road (A21), Bromley",500,ERG Research,Roadside,540630,169140,51.40383481079501,0.02039022891371799,1999-09-03T06:00:00Z,2004-01-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,CD2,Camden API,Swiss Cottage,500,ERG Research,Kerbside,526629,184391,51.54419012617738,-0.17532011763047814,1997-01-21T11:00:00Z,2003-07-24T00:00:00Z,FALSE,TRUE,TRUE
+kcl,EG3,Yeoman Aggregates Osiris Horn Lane,Yeoman Aggregates Osiris Horn Lane,500,ERG Research,Industrial,520344,181380,51.51850338165618,-0.26693611375802695,2006-05-01T00:15:00Z,2007-05-31T00:00:00Z,FALSE,TRUE,TRUE
+kcl,EG4,Gowing and Pursey Osiris Horn Lane,Gowing and Pursey Osiris Horn Lane,500,ERG Research,Industrial,520406,181392,51.51859802993559,-0.2660388835554021,2007-03-19T00:00:00Z,2007-05-06T23:45:00Z,FALSE,TRUE,TRUE
+kcl,TD1,Teddington KFG 1,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2004-11-15T15:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TD2,Teddington KFG 2,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2004-11-15T15:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TD3,Teddington TEOM 1,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2004-11-15T12:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TD4,Teddington TEOM 2,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2004-11-15T12:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TD5,London Teddington Bushy Park,"National Physical Laboratory, Teddington",27,Richmond,Suburban,515120,170884,51.42525603609371,-0.34560829087289807,2004-11-15T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TD6,Teddington FDMS 2,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2004-11-15T11:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TD7,Teddington Partisol 1,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2004-11-15T15:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TD8,Teddington Partisol 2,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2004-11-15T15:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TH0,Tower Hamlets 4 aethalometer,Blackwall A12 Abbott Street junction,500,ERG Research,Roadside,538290,181452,51.515046167401344,-0.0084184926564274,2010-09-08T00:00:00Z,2022-02-18T00:00:00Z,FALSE,TRUE,TRUE
+kcl,EI2,Ealing - Southall Railway,Jctn of  The Crescent/Randolph Rd,9,Ealing,Roadside,512514,179795,51.50586997837261,-0.38024103151266936,2011-04-08T00:00:00Z,2014-01-06T00:00:00Z,FALSE,FALSE,TRUE
+kcl,TX0,TeddingtonGrav PM25 2,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2007-06-11T10:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TX1,Teddington FDMSB 1,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2003-03-17T12:30:00Z,NA,FALSE,FALSE,TRUE
+kcl,TX2,Teddington FDMSB 2,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2004-11-15T11:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TX3,Teddington FDMSC 1,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2007-06-10T23:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TX4,Teddington FDMSC 2,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2007-06-10T23:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TX5,Teddington TEOM 1,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2007-06-10T23:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TX6,Teddington TEOM 2,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2007-06-10T23:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TX7,Teddington Grav PM10 1,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2004-11-15T15:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TX8,Teddington Grav PM10 2,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2004-11-15T15:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TX9,Teddington Grav PM25 1,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2007-06-11T10:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,XT1,BT Tower - ClearfLo SMPS,BT Tower,500,ERG Research,Urban Background,529221,181920,51.52139718501779,-0.1388687072890943,2011-03-01T00:00:00Z,2013-02-12T00:00:00Z,TRUE,TRUE,TRUE
+kcl,HS4,Hounslow - Chiswick High Road,Chiswick High Road,18,Hounslow,Roadside,521083,178501,51.492507,-0.257252,1999-08-26T11:45:00Z,2012-04-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,KSJ,Kings Micromet Kings Bldg Sonic,"Kings Building, Strand Campus",500,ERG Research,Urban Background,530829,180852,51.511429735307715,-0.11610128291257985,2008-10-01T00:00:00Z,NA,TRUE,TRUE,TRUE
+kcl,NK7,North Kensington - BLC NOX,"Sion Manning School, St. Charles' square, North Kensington",500,ERG Research,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2008-10-01T00:00:00Z,2013-01-17T00:00:00Z,FALSE,TRUE,TRUE
+kcl,IM1,Camden - Holborn (Bee Midtown),"Inmidtown Kiosk, Outside Holborn Station",6,Camden,Kerbside,530528,181505,51.51736751461766,-0.12019471131710042,2014-02-06T00:00:00Z,2023-05-02T00:00:00Z,TRUE,TRUE,TRUE
+kcl,JC1,Portable Sensor - CanariT 405,Marylebone Road trial,506,Portable sensor trials,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2012-07-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,JC2,Portable Sensor - CanariT 406,Marylebone Road trial,506,Portable sensor trials,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2012-07-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,SK6,Southwark - Elephant and Castle,Elephant and Castle,28,Southwark,Urban Background,531893,178846,51.49315570486672,-0.10152703827485332,2013-01-23T00:00:00Z,2025-03-31T00:00:00Z,TRUE,TRUE,TRUE
+kcl,ME3,Merton - Haydon Court,"Haydon Court, Merton",500,ERG Research,Industrial,523722,166503,51.384072219595325,-0.22347315010265148,2013-11-04T00:00:00Z,2013-10-30T00:00:00Z,FALSE,FALSE,TRUE
+kcl,XK1,North Kensington Composite site,NA,500,ERG Research,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2012-01-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,EI8,Ealing - Horn Lane TEOM,Horn Lane,9,Ealing,Industrial,520432,181428,51.51891603488059,-0.2656520523862224,2005-02-25T00:00:00Z,2026-01-05T00:00:00Z,FALSE,TRUE,TRUE
+kcl,PF1,Port Talbot Fidas,NA,500,ERG Research,Urban Background,NA,NA,51.52250935974187,-0.1546221546568425,2017-02-20T00:00:00Z,2018-02-08T00:00:00Z,FALSE,TRUE,TRUE
+kcl,WM9,Westminster - Victoria (Victoria BID),"Victoria Business Improvement District, 2nd Floor, 14 Buckingham Palace Road",33,Westminster,Roadside,528915,179279,51.49773318297355,-0.14424140916201048,2016-08-08T00:00:00Z,2017-09-20T00:00:00Z,FALSE,TRUE,TRUE
+kcl,BP0,Westminster - Bridge Place,"Bridge Place, Westminster",33,Westminster,Urban Background,528956,178848,51.493850565699894,-0.14380845103016554,1990-07-03T00:00:00Z,1999-11-21T13:45:00Z,FALSE,TRUE,TRUE
+kcl,LH0,Hillingdon - Harlington,"Heathrow Airport, Harlington",17,Hillingdon,Urban Background,508300,177800,51.48878,-0.441627,2004-01-01T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TD0,"- National Physical Laboratory, Teddington","National Physical Laboratory, Teddington",27,Richmond,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,1996-08-08T00:00:00Z,2018-01-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,WE0,Kensington and Chelsea - Pembroke Road,"Pembroke Road, Kensington",20,Kensington and Chelsea,Urban Background,525100,178800,51.49428474515958,-0.199340350918702,1987-01-01T00:00:00Z,2007-09-30T00:00:00Z,FALSE,TRUE,TRUE
+kcl,RB5,Redbridge - South Woodford,A406  - South Woodford,26,Redbridge,Roadside,540017,190488,51.595851,0.020087,2003-11-19T00:00:00Z,2012-03-30T10:45:00Z,FALSE,FALSE,TRUE
+kcl,BX7,Bexley - Thames Road North,"Thames Rd, Bexley (north)",3,Bexley,Roadside,552615,175416,51.457159,0.195294,2004-04-08T00:00:00Z,2010-03-23T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BX8,Bexley - Thames Road South,"Thames Rd, Bexley (south)",3,Bexley,Roadside,552566,175384,51.456887,0.194582,2004-04-06T00:00:00Z,2010-04-15T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RIK,Richmond Mobile - St. Margarets Grove,"Richmond Mobile Site - St. Margarets Grove, St. Margarets",503,Mobile sites,Urban Background,516657,174129,51.45410706689706,-0.3224433942396604,2004-04-27T00:00:00Z,2004-07-21T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RIL,Richmond Mobile - St. Margarets Grove,"Richmond Mobile Site - St. Margarets Grove, St. Margarets",503,Mobile sites,Urban Background,516657,174129,51.45410706689706,-0.3224433942396604,2004-04-27T00:00:00Z,2004-07-21T00:00:00Z,FALSE,FALSE,TRUE
+kcl,MY8,Marylebone Road - Nitrate,"Cabin opposite Madame Tussauds, Marylebone Road",501,Marylebone Road,Kerbside,528125,182016,51.52236670521651,-0.15469999607315396,2004-02-16T00:00:00Z,2010-07-11T05:30:00Z,TRUE,TRUE,TRUE
+kcl,HI0,Hillingdon - Keats Way,West Drayton,17,Hillingdon,Suburban,506945,178609,51.496309,-0.460826,1996-08-02T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,WM0,Westminster - Horseferry Road,Horseferry Road,33,Westminster,Urban Background,529802,178962,51.494681,-0.131938,2001-07-17T00:00:00Z,NA,TRUE,TRUE,TRUE
+kcl,EC1,Entec - Blackwall Lane,"ARC Carwash, Blackwall Lane",505,Entec UK,Urban Background,540027,178419,51.48736458028205,0.01539500140914047,2008-08-04T00:00:00Z,2008-12-02T00:00:00Z,FALSE,TRUE,TRUE
+kcl,EA7,Ealing - Southall,"Blair Peach Primary School, Beaconsfield Road, Southall",9,Ealing,Urban Background,511677,180071,51.508549,-0.392179,2004-07-13T11:00:00Z,2016-01-26T00:00:00Z,FALSE,FALSE,TRUE
+kcl,WM3,Westminster - Hyde Park Partisol,Charing Cross Library,500,ERG Research,Roadside,529997,180699,51.51024663993508,-0.12814014743432375,2006-01-31T00:00:00Z,2006-02-15T00:00:00Z,TRUE,TRUE,TRUE
+kcl,GR9,Greenwich - Westhorne Avenue,Westhorne Avenue,11,Greenwich,Roadside,541879,175016,51.456357,0.040725,2004-10-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,FD2,Marylebone Co-located FDMS,Marylebone Co-located FDMS,500,ERG Research,Urban Background,528125,182016,51.52250935974187,-0.1546221546568425,2004-11-17T00:00:00Z,2005-01-05T00:00:00Z,FALSE,TRUE,TRUE
+kcl,KC7,Kensington and Chelsea - North Ken FDMS,"Sion Manning School, St. Charles' square, North Kensington",20,Kensington and Chelsea,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2003-11-21T00:00:00Z,2018-03-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,EA8,Ealing - Horn Lane,Horn Lane,9,Ealing,Industrial,520432,181428,51.518948,-0.265617,2005-02-25T00:00:00Z,2026-01-05T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HF3,Hammersmith and Fulham - Scrubs Lane,Hammersmith and Fulham - Scrubs Lane,13,Hammersmith and Fulham,Kerbside,522387,182807,51.5308895141056,-0.23701100535731315,2005-03-30T12:00:00Z,2005-10-27T14:00:00Z,FALSE,TRUE,TRUE
+kcl,EA9,Ealing - Court Way,"Court Way, Acton W3",9,Ealing,Roadside,520473,181835,51.52256512134911,-0.2649224147752771,2005-04-19T01:00:00Z,2006-06-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,EA0,Ealing - Acton Town Hall FDMS,"Acton Town Hall, Acton High Street",9,Ealing,Roadside,520304,180054,51.506628,-0.267934,2005-04-29T09:00:00Z,2011-12-29T00:00:00Z,FALSE,TRUE,TRUE
+kcl,KC9,North Kensington - Partisol SO4,"Sion Manning School, St. Charles' square, North Kensington",651,DEFRA Particles,Urban Background,524040,181740,51.520940000292526,-0.21356838864725547,2005-01-01T00:00:00Z,2017-11-13T00:00:00Z,FALSE,TRUE,TRUE
+kcl,MY9,Marylebone Road - Partisol SO4,"Cabin opposite Madame Tussauds, Marylebone Road",501,Marylebone Road,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2005-01-01T00:00:00Z,2022-03-15T00:00:00Z,FALSE,TRUE,TRUE
+kcl,RIO,Richmond Mobile - Stanley Rd Twickenham,"Richmond Mobile Site - Stanley Road, Twickenham",503,Mobile sites,Roadside,514750,172250,51.43760834135621,-0.3504855620438772,2005-06-01T00:00:00Z,2005-07-19T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RIP,Richmond Mobile - Stanley Rd Twickenham,"Richmond Mobile Site - Stanley Road, Twickenham",503,Mobile sites,Roadside,514750,172250,51.43760834135621,-0.3504855620438772,2005-06-01T00:00:00Z,2005-07-19T00:00:00Z,FALSE,FALSE,TRUE
+kcl,MR2,Marylebone Road SMPS,"Cabin opposite Madame Tussauds, Marylebone Road",651,DEFRA Particles,Kerbside,528125,182016,51.52236670521651,-0.15469999607315396,2005-05-28T00:00:00Z,2023-01-23T00:00:00Z,TRUE,TRUE,TRUE
+kcl,BL1,Bloomsbury AURN SMPS,Bloomsbury SMPS,600,London Mean,Urban Background,530123,182014,51.52203503645214,-0.1258405225829307,2005-05-28T00:00:00Z,2007-10-19T00:00:00Z,TRUE,TRUE,TRUE
+kcl,BQ7,Bexley - Belvedere West,"Harris Garrad Academy, Yanton Way, Erith",3,Bexley,Urban Background,548465,179469,51.49464868130551,0.13727911123217845,2010-08-24T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,CR2,Croydon - Purley Way,"Waddon Junior School, Purley Way",8,Croydon,Roadside,531123,164299,51.362638,-0.117952,1994-08-08T13:00:00Z,2010-10-08T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BN1,Barnet - Tally Ho Corner,Tally Ho Corner,2,Barnet,Kerbside,526342,192223,51.614675,-0.176607,1998-12-20T12:00:00Z,2012-04-20T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BN2,Barnet - Finchley,"Chalgrove Primary School, Finchley",2,Barnet,Urban Background,524370,189640,51.591901,-0.205992,2000-08-09T13:00:00Z,2012-04-20T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BN3,Barnet - Strawberry Vale,Strawberry Vale,2,Barnet,Urban Background,526681,190701,51.60088484535891,-0.1722975420871775,2000-08-14T14:00:00Z,2002-05-15T00:00:00Z,FALSE,TRUE,TRUE
+kcl,BT1,Brent - Kingsbury,"Princes Avenue, Kingsbury",4,Brent,Suburban,519560,189271,51.589618,-0.275519,1996-01-26T00:00:00Z,2010-11-16T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BT2,Brent - Ikea Car Park,"Brent Park Ikea, Drury Way",4,Brent,Roadside,520712,185164,51.55243262739222,-0.2603388438690765,2001-06-17T12:00:00Z,2003-06-16T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BT3,Brent - Harlesden,Harlesden High Street,4,Brent,Roadside,521520,183475,51.53708002981033,-0.24927342529945715,2001-10-31T00:00:00Z,2006-09-27T00:00:00Z,FALSE,TRUE,TRUE
+kcl,BW1,Brentwood - Brentwood Town Hall,"Town Hall, Ingrave Road, Brentwood, Essex",42,Brentwood,Urban Background,559860,193617,51.618686,0.307746,1995-08-08T00:00:00Z,2017-10-30T00:00:00Z,FALSE,FALSE,FALSE
+kcl,BX1,Bexley - Slade Green,"Whitehall Lane, Bexley",3,Bexley,Suburban,551864,176379,51.465983274666215,0.18487712699436917,1994-05-25T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,BX2,Bexley - Belvedere,"Belvedere Infants Sch, Mitchel Cl, Belvedere",3,Bexley,Suburban,549980,179064,51.49061020821466,0.15891449392751836,1998-01-24T15:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,BX3,Bexley - Thamesmead,"Castillion Sch, Copperfield Rd, Thamesmead",3,Bexley,Suburban,547323,181231,51.510808,0.121617,1998-01-24T15:00:00Z,2018-03-12T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BX4,Bexley - Erith,"Manor Road, Erith",3,Bexley,Industrial,552239,177691,51.47767079629801,0.19083622597490152,1999-04-28T00:00:00Z,2014-12-19T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BX5,Bexley - Bedonwell,"Bedonwell Road Infants Sch, Belvedere",3,Bexley,Suburban,548280,177700,51.478802354733375,0.13387383906268285,1999-10-06T13:00:00Z,2004-04-08T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BY5,Bromley - Biggin Hill,"Biggin Hill Junior School, Old Tye Avenue, Biggin Hill",5,Bromley,Suburban,542408,159251,51.314562,0.042019,1996-04-01T00:00:00Z,2010-07-09T08:45:00Z,FALSE,FALSE,TRUE
+kcl,BY7,Bromley - Harwood Avenue,"Portacabin, End of Harwood Avenue",5,Bromley,Roadside,540518,169324,51.405546,0.018882,1998-07-06T11:00:00Z,2026-01-05T00:00:00Z,FALSE,FALSE,TRUE
+kcl,CD1,Camden - Swiss Cottage,"Corner of Finchley Road and College Crescent, Swiss Cottage",6,Camden,Kerbside,526629,184391,51.544219,-0.175284,1996-04-16T13:30:00Z,NA,FALSE,TRUE,TRUE
+kcl,CD3,Camden - Shaftesbury Avenue,Shaftesbury Avenue,6,Camden,Roadside,530057,181285,51.515532,-0.127027,2000-04-20T06:00:00Z,2016-11-04T00:00:00Z,TRUE,TRUE,TRUE
+kcl,NM1,Newham - Tant Avenue,Tant Avenue,25,Newham,Urban Background,539744,181483,51.514764,0.011989,1998-01-01T00:00:00Z,2003-12-31T00:00:00Z,FALSE,TRUE,TRUE
+kcl,ME1,Merton - Morden Civic Centre,Morden Civic Centre,24,Merton,Roadside,525591,168437,51.40105,-0.195929,2010-01-13T00:00:00Z,2017-01-27T00:00:00Z,FALSE,FALSE,TRUE
+kcl,CR3,Croydon - Thornton Heath,"Beulah Junior Schoo, Beulah Junior School, Beulah Rd, Thornton Heath, Surrey",8,Croydon,Suburban,532336,168934,51.40401,-0.098814,1997-06-13T02:30:00Z,2013-02-08T00:00:00Z,FALSE,FALSE,TRUE
+kcl,CR4,Croydon - George Street,"George street junc. with Wellesley rd, croydon",8,Croydon,Roadside,532583,165636,51.374312,-0.096503,1999-09-20T07:45:00Z,2015-04-02T00:00:00Z,FALSE,FALSE,TRUE
+kcl,CT1,City of London - Senator House,"Senator House, Queen Victoria St.",7,City of London,Urban Background,532235,180892,51.511491,-0.095807,2001-10-10T14:45:00Z,2013-01-16T00:00:00Z,TRUE,TRUE,TRUE
+kcl,EA1,Ealing - Ealing Town Hall,"Ealing Town Hall, Uxbridge Road",9,Ealing,Urban Background,517541,180738,51.513323046654754,-0.30752901547358485,1995-03-14T00:00:00Z,2012-01-10T00:00:00Z,FALSE,FALSE,TRUE
+kcl,EA2,Ealing - Acton Town Hall,"Acton Town Hall, Acton High Street",9,Ealing,Roadside,520304,180054,51.506628,-0.267934,1996-09-09T15:00:00Z,2012-01-17T00:00:00Z,FALSE,TRUE,TRUE
+kcl,IS1,Islington - Upper Street,Upper Street,19,Islington,Urban Background,531635,184130,51.540700338559475,-0.10326957819315068,1994-05-13T01:00:00Z,2007-03-14T00:00:00Z,FALSE,TRUE,TRUE
+kcl,IS2,Islington - Holloway Road,Holloway Road,19,Islington,Roadside,530698,185735,51.555378,-0.116146,2000-07-12T06:45:00Z,2026-04-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,KC1,Kensington and Chelsea - North Ken,"Sion Manning School, St. Charles' square, North Kensington",20,Kensington and Chelsea,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,1995-03-17T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,KC2,Kensington and Chelsea - Cromwell Road,Cromwell Road Natural History Museum,20,Kensington and Chelsea,Roadside,526524,178965,51.49550391,-0.178809464,1998-05-10T20:00:00Z,2017-10-27T00:00:00Z,FALSE,TRUE,TRUE
+kcl,KC3,Kensington and Chelsea - Knightsbridge,"Harrods, Knightsbridge",20,Kensington and Chelsea,Roadside,527518,179395,51.49913951,-0.164337605,2000-03-28T11:30:00Z,2017-10-26T00:00:00Z,FALSE,TRUE,TRUE
+kcl,KC4,Kensington and Chelsea - Kings Road,"Chelsea Old Town Hall, King's Road",20,Kensington and Chelsea,Roadside,527268,178089,51.48743685,-0.168397129,2000-09-27T14:15:00Z,2017-10-26T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HS9,Hounslow - Feltham,"Hanworth Road, Feltham",18,Hounslow,Roadside,510678,173248,51.44738776554558,-0.40873283724379306,2009-08-19T00:00:00Z,2012-04-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,MR0,Marylebone PM1 FDMS,"Cabin opposite Madame Tussauds, Marylebone Road",500,ERG Research,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2014-10-24T14:00:00Z,2015-01-08T00:00:00Z,FALSE,TRUE,TRUE
+kcl,KC5,Kensington and Chelsea - Earls Court Rd,Earls Court Road,20,Kensington and Chelsea,Kerbside,525695,178363,51.49019756,-0.190863311,2002-05-01T00:00:00Z,2017-10-27T00:00:00Z,FALSE,TRUE,TRUE
+kcl,KT1,Kingston - Chessington,"Chessington Community College, Garrison Lane",21,Kingston,Suburban,517300,163300,51.356646691386736,-0.3167708419627368,1996-01-24T14:00:00Z,2008-07-07T12:00:00Z,FALSE,FALSE,TRUE
+kcl,LB1,Lambeth - Christchurch Road,"Christchurch Road, Streatham Hill",22,Lambeth,Roadside,530628,173368,51.444249,-0.121731,2000-09-24T09:00:00Z,2010-12-02T00:00:00Z,FALSE,TRUE,TRUE
+kcl,LB2,Lambeth - Vauxhall Cross,"Vauxhall Cross, traffic island in middle of Bondway / Wandsworth Road / Parry Street",22,Lambeth,Roadside,530275,177887,51.484912309947454,-0.1251737366060142,2001-12-19T15:00:00Z,2003-07-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,LB3,Lambeth - Loughborough Junct,"Lambeth Scientific Services, 26 Wanless Road, Loughborough Junction",22,Lambeth,Urban Background,532137,175701,51.464866,-0.099161,2001-12-19T11:00:00Z,2010-12-20T00:00:00Z,FALSE,TRUE,TRUE
+kcl,LH2,Heathrow Airport,"Heathrow Airport, North Apron",17,Hillingdon,Industrial,508393,176742,51.47923388648935,-0.44053070328297095,1999-01-01T00:00:00Z,2011-02-24T00:00:00Z,FALSE,FALSE,TRUE
+kcl,LW1,Lewisham - Catford,"Catford Town Hall, Catford",23,Lewisham,Urban Background,537675,173689,51.445468,-0.020266,1996-08-02T15:00:00Z,2021-11-03T00:00:00Z,FALSE,TRUE,TRUE
+kcl,LW2,Lewisham - New Cross,"Newcross Road, New Cross",23,Lewisham,Roadside,536241,176932,51.474954,-0.039641,2002-03-31T13:45:00Z,2025-04-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,MG1,Marylebone Rd - Traffic,"Marylebone Rd Traffic nearside lane westbound, cabin",501,Marylebone Road,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,1998-07-09T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,MV2,Mole Valley - Lower Ashtead,"Parsons Mead School, Ottways Lane, Ashtead, Surrey",41,Mole Valley,Suburban,518160,157750,51.30658661715165,-0.3062646958886568,1997-04-29T12:00:00Z,2006-07-18T00:00:00Z,FALSE,FALSE,FALSE
+kcl,BT6,Brent - John Keble Primary School,"John Keble Primary School, Crownhill Road",4,Brent,Roadside,521619,183554,51.537799,-0.247793,2006-11-01T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,HI3,Hillingdon - Oxford Avenue,"Hillingdon, Oxford Avenue",17,Hillingdon,Roadside,509551,176974,51.481131839058,-0.423760323968,2005-03-01T12:00:00Z,2011-06-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,KC0,North Kensington - Carbon,North Kensington - Carbon,651,DEFRA Particles,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2005-05-28T00:00:00Z,2007-05-02T00:00:00Z,FALSE,TRUE,TRUE
+kcl,MY0,Marylebone Road - Carbon,Marylebone Road - Carbon,651,DEFRA Particles,Kerbside,528125,182016,51.52236670521651,-0.15469999607315396,2005-05-28T00:00:00Z,2007-05-15T00:00:00Z,TRUE,TRUE,TRUE
+kcl,MR1,Marylebone Road - CPC,"Cabin opposite Madame Tussauds, Marylebone Road",651,DEFRA Particles,Kerbside,528125,182016,51.52236670521651,-0.15469999607315396,2005-05-28T00:00:00Z,2024-11-01T00:00:00Z,TRUE,TRUE,TRUE
+kcl,RIM,Richmond Mobile - Petersham Rd Ham,"Richmond Mobile Site - Petersham Road, Ham",503,Mobile sites,Roadside,517960,172524,51.43941231162905,-0.30423364392509294,2004-07-22T00:00:00Z,2005-06-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RIN,Richmond Mobile - Petersham Rd Ham,"Richmond Mobile Site - Petersham Road, Ham",503,Mobile sites,Roadside,517960,172524,51.43941231162905,-0.30423364392509294,2004-07-22T00:00:00Z,2005-06-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BY1,Bromley - Rent Office,"Housing department, London Road, Bromley",5,Bromley,Urban Background,539685,170160,51.41323389483591,0.0072147161877067,1993-01-01T00:00:00Z,1996-01-11T21:00:00Z,FALSE,FALSE,TRUE
+kcl,BY4,Bromley - Tweedy Rd,"Careers Service Centre, Tweedy Road (A21), Bromley",5,Bromley,Roadside,540630,169140,51.40383481079501,0.02039022891371799,1996-01-28T11:00:00Z,1998-07-06T10:45:00Z,FALSE,FALSE,TRUE
+kcl,HG3,Haringey - Bounds Green,"Bounds Green Road, Haringey",14,Haringey,Roadside,530050,191350,51.60594994748036,-0.12344112032254664,1999-06-21T00:15:00Z,2001-03-11T23:45:00Z,FALSE,TRUE,TRUE
+kcl,KT2,Kingston - Town Centre,"Kingston College, Richmond Road",21,Kingston,Roadside,518200,169750,51.41443076053089,-0.3017068220601307,1996-04-26T06:00:00Z,2000-06-23T08:45:00Z,FALSE,FALSE,TRUE
+kcl,HM2,Bushy RPM,Bushey RPM,500,ERG Research,Urban Background,513500,195500,51.64682396740726,-0.36097089764434426,1998-02-28T11:15:00Z,1999-02-28T11:00:00Z,FALSE,FALSE,FALSE
+kcl,HM3,Potters Bar RPM,Potters Bar RPM,500,ERG Research,Urban Background,526247,200947,51.693059411907825,-0.1748662598185864,1998-02-28T11:15:00Z,1999-02-28T11:00:00Z,FALSE,FALSE,FALSE
+kcl,HV2,Havering - Harold Hill,"Gooshays Drive, Harold Hill",16,Havering,Suburban,554200,192100,51.606599215942744,0.2253595583298979,1998-03-31T23:00:00Z,2000-11-12T14:45:00Z,FALSE,FALSE,TRUE
+kcl,WF2,Watford - Watford Town Hall,"Town Hall, Watford,",150,Herts & Beds,Roadside,510568,196808,51.6592,-0.402887,1998-11-27T00:00:00Z,2011-11-01T00:00:00Z,FALSE,FALSE,FALSE
+kcl,MV1,Mole Valley - Leatherhead,"National Grid and Brown and Root, Randalls Road, Leatherhead, Surrey",41,Mole Valley,Rural,515600,157600,51.305763613474035,-0.3430222845421108,1996-04-29T07:30:00Z,1999-02-26T14:00:00Z,FALSE,FALSE,FALSE
+kcl,GN3,Greenwich - Plumstead High Street,Greenwich 13 - Plumstead High Street (A206),11,Greenwich,Roadside,545560,178526,51.486957,0.095111,2006-01-27T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,GN4,Greenwich - Fiveways Sidcup Rd A20,A20 Five Ways,11,Greenwich,Roadside,543582,172653,51.43466270605621,0.06422246717046973,2011-01-24T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,SC1,Sevenoaks 1,"Three Gates Road, Scudders Hill, Near Brands Hatch, Kent",100,Kent,Suburban,558900,167400,51.38338226778429,0.2820611711336299,1996-05-17T09:30:00Z,1997-09-01T08:15:00Z,FALSE,FALSE,FALSE
+kcl,SK3,Southwark 1 Grim,"Environmental Services, Larcom Street, Elephant and Castle",500,ERG Research,Urban Background,532240,178561,51.490513579216234,-0.09663828512475474,1999-09-10T10:30:00Z,2002-05-24T12:00:00Z,FALSE,TRUE,TRUE
+kcl,SK4,Southwark 2 Grim,"Livesey Museum, 682 Old Kent Road SE15",500,ERG Research,Roadside,534620,177670,51.48194567929264,-0.06271762351716886,1999-09-10T13:45:00Z,2001-07-26T11:15:00Z,FALSE,TRUE,TRUE
+kcl,VS1,Westminster - Victoria Street,"DTI Building, Victoria Street",33,Westminster,Kerbside,529810,179470,51.49924501359252,-0.13128517398065903,2003-05-02T15:00:00Z,2008-04-01T00:00:00Z,TRUE,TRUE,TRUE
+kcl,WA3,Wandsworth - Roehampton,Roehampton College,32,Wandsworth,Rural,521991,174567,51.4569204685076,-0.24556249049838155,1994-10-31T00:00:00Z,2000-11-24T13:45:00Z,FALSE,FALSE,TRUE
+kcl,WL2,Waltham Forest - Mobile,Grove Green Road,31,Waltham Forest,Roadside,539000,187000,51.56472570342797,0.00399595335237289,1998-07-09T12:15:00Z,2001-10-12T11:00:00Z,FALSE,TRUE,TRUE
+kcl,ZG1,Gravesham Backgrnd - Northfleet,"Cygnet Leisure Centre, Northfleet",100,Kent,Urban Background,563135,172960,51.432133196094185,0.3454208072241373,1997-04-25T10:00:00Z,2001-08-24T11:45:00Z,FALSE,FALSE,FALSE
+kcl,GN0,Greenwich - A206 Burrage Grove,"A206, Burrage Grove",11,Greenwich,Roadside,544084,178881,51.490532,0.074003,2004-10-07T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,GN2,Greenwich - Millennium Village,Greenwich Millennium Village,11,Greenwich,Industrial,540169,178999,51.492571,0.017697,2004-08-01T00:00:00Z,2016-10-20T00:00:00Z,FALSE,TRUE,TRUE
+kcl,TH4,Tower Hamlets - Blackwall,Blackwall A12 Abbott Road junction,30,Tower Hamlets,Roadside,538290,181452,51.515046167401344,-0.0084184926564274,2006-09-08T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,GR3,Woolwich Aethalometer,Woolwich,650,DEFRA Black Smoke,Urban Background,544100,176900,51.472693224533344,0.07339787629932876,2008-10-01T00:00:00Z,2012-03-26T00:00:00Z,FALSE,FALSE,TRUE
+kcl,TL3,Roving 2 PM2.5,BX2 Biomass,500,ERG Research,Urban Background,549975,179064,51.49061153327438,0.1588425290850377,2009-01-13T00:00:00Z,2015-03-27T00:00:00Z,FALSE,FALSE,TRUE
+kcl,CT7,City of London 7 - NOx paint study site,Sir John Cass School,500,ERG Research,Urban Background,533524,181174,51.513693481437,-0.07716683545546466,2005-09-16T00:00:00Z,2006-11-30T00:00:00Z,TRUE,TRUE,TRUE
+kcl,XP2,Biomass Partisol - IS6,Islington Ecology,500,ERG Research,Urban Background,531325,186032,51.557895,-0.106989,2010-01-15T00:00:00Z,2010-03-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,WM4,Westminster - Charing Cross Library,Charing Cross Library,33,Westminster,Roadside,529992,180691,51.510205,-0.128177,2007-02-01T00:00:00Z,2011-01-11T00:00:00Z,TRUE,TRUE,TRUE
+kcl,CT3,City of London - The Aldgate School,The Aldgate School,7,City of London,Urban Background,533480,181186,51.513847178423,-0.077765681752,2003-01-01T00:00:00Z,2023-06-30T00:00:00Z,TRUE,TRUE,TRUE
+kcl,IS6,Islington - Arsenal,"Islington Ecology Centre, 191 Drayton Pk",19,Islington,Urban Background,531325,186032,51.557895,-0.106989,2007-03-14T00:00:00Z,2026-04-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,CD7,Camden - Swiss Cottage Partisol,"Corner of Finchley Road and College Crescent, Swiss Cottage",500,ERG Research,Kerbside,526650,184460,51.544805507493905,-0.17499263880988666,2008-10-22T00:00:00Z,2010-07-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,WA6,Wandsworth - Tooting,"Mitcham Road, Tooting",32,Wandsworth,Roadside,527712,171184,51.425284,-0.164452,2008-07-01T00:00:00Z,2009-08-28T13:30:00Z,FALSE,FALSE,TRUE
+kcl,WAA,Wandsworth - Battersea,"Thessaly Road, Wandsworth",32,Wandsworth,Roadside,529137,177249,51.479439528122235,-0.1417869536063064,2012-06-19T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,NK3,North Kensington Aethalometer,"Sion Manning School, St. Charles' square, North Kensington",650,DEFRA Black Smoke,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2008-10-01T00:00:00Z,2019-11-07T00:00:00Z,FALSE,TRUE,TRUE
+kcl,BTE,Environment Agency Neasden Lane,"Neasden Lane, Neasden",500,ERG Research,Industrial,521530,185210,51.55267060169417,-0.2485306861017812,2008-01-31T00:00:00Z,2008-10-01T00:00:00Z,FALSE,TRUE,TRUE
+kcl,HS7,Hounslow - Hatton Cross,Myrtle Avenue,18,Hounslow,Urban Background,509332,174997,51.463402,-0.427525,2006-01-05T00:00:00Z,2012-04-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,HF4,Hammersmith and Fulham - Shepherds Bush,65-69 Shepherds Bush Green,13,Hammersmith and Fulham,Roadside,523314,179900,51.5045625671557,-0.22467000703160292,2011-10-31T00:00:00Z,2017-10-27T00:00:00Z,FALSE,TRUE,TRUE
+kcl,ME2,Merton - Merton Road,"234 Merton Road, South Wimbledon",24,Merton,Roadside,525808,170122,51.41613847948619,-0.19223080504282433,2011-06-29T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,XP1,Biomass Partisol - GR4,ECC Eltham,500,ERG Research,Urban Background,543978,174655,51.45255156046481,0.07072910407984632,2010-01-14T00:00:00Z,2010-08-26T00:00:00Z,FALSE,FALSE,TRUE
+kcl,SK7,Southwark - Heygate,Walworth Rd,28,Southwark,Urban Background,532101,178832,51.49298137880028,-0.09853789104818315,2014-08-26T00:00:00Z,2015-11-11T00:00:00Z,FALSE,TRUE,TRUE
+kcl,XP3,Biomass Partisol - Belvedere,"Belvedere Infants Sch, Mitchel Cl, Belvedere",500,ERG Research,Urban Background,549975,179064,51.490646,0.158882,2010-01-13T00:00:00Z,2010-03-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,CD9,Camden - Euston Road,Euston Road at junction with Dukes Road,6,Camden,Roadside,529903,182666,51.527975,-0.1287742,2011-01-29T00:00:00Z,2020-07-02T00:00:00Z,FALSE,TRUE,TRUE
+kcl,RIY,Richmond - Hampton Court Road,"Richmond Mobile Site - A308, Hampton Court Road",503,Mobile sites,Kerbside,515473,168771,51.40619309898007,-0.3412208948139471,2010-01-05T00:00:00Z,2011-01-11T00:00:00Z,FALSE,FALSE,TRUE
+kcl,EN7,Enfield - Prince of Wales School,"Salisbury Road, Enfield",10,Enfield,Urban Background,536885,198507,51.66864334727,-0.02200720557,2012-07-09T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,TH5,Tower Hamlets - Victoria Park,Victoria Park,30,Tower Hamlets,Urban Background,536498,184173,51.53993273946913,-0.03317405817781779,2012-07-25T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,KSK,Kings Micromet Kings Building,"King's Building, Strand Campus",500,ERG Research,Urban Background,530829,180852,51.511429735307715,-0.11610128291257985,2008-01-01T00:00:00Z,NA,TRUE,TRUE,TRUE
+kcl,LW3,Lewisham - Mercury Way,"Mercury Way, New Cross",23,Lewisham,Industrial,535806,177612,51.481141218471926,-0.04567085666680425,2010-01-01T00:00:00Z,2016-02-03T00:00:00Z,FALSE,TRUE,TRUE
+kcl,XL3,Heygate Intel 3,Walworth Rd,500,ERG Research,Urban Background,532101,178832,51.49298137880028,-0.09853789104818315,2015-04-13T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,XD2,Teddington Fidas 2,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2014-02-20T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,WM6,Westminster - Oxford Street,"433 Oxford St, Mayfair",33,Westminster,Kerbside,528276,181065,51.51392874042133,-0.15279270188193483,2011-01-01T00:00:00Z,2026-04-01T00:00:00Z,TRUE,TRUE,TRUE
+kcl,WA9,Wandsworth - Putney,"Felsham Road, Putney",32,Wandsworth,Urban Background,524035,175519,51.46503250591225,-0.21582458094757215,2011-01-04T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,WA8,Wandsworth - Putney High Street Facade,"Vodafone Store, 94a Putney High Street",32,Wandsworth,Roadside,524034,175373,51.46372060471911,-0.21589014412311935,2010-04-23T00:00:00Z,2024-01-25T00:00:00Z,FALSE,TRUE,TRUE
+kcl,NK0,North Kensington - PM1 FDMS,"Sion Manning School, St. Charles' square",500,ERG Research,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2013-12-15T00:00:00Z,2014-10-14T09:00:00Z,FALSE,TRUE,TRUE
+kcl,KG1,Kensington and Chelsea - Green Screen RS,"Warwick Road, Earls Court",20,Kensington and Chelsea,Roadside,525509,178268,51.48941311443219,-0.19364088615894923,2013-10-30T00:00:00Z,2014-10-31T00:00:00Z,FALSE,TRUE,TRUE
+kcl,RHH,Richmond Upon Thames - Chertsey Road,Outside Richmond Upon Thames College near the junction of Egerton Road and Chertsey Road,503,Mobile sites,Roadside,515355,173992,51.45314225110043,-0.34121813810646934,2016-05-24T00:00:00Z,2020-08-06T00:00:00Z,FALSE,FALSE,TRUE
+kcl,VVG,Vaisala Road Sensor - Gutteridge Wood,"Gutteridge Wood, A40",500,ERG Research,Kerbside,509304,184499,51.548806,-0.425015,2000-01-01T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,WAB,Wandsworth - Tooting High Street,"Tooting High Street, Wandsworth",32,Wandsworth,Roadside,527567,171628,51.429331,-0.166524,2015-06-11T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,XK2,North Kensington PIXE,"Sion Manning School, St. Charles' square",500,ERG Research,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2014-04-18T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,ZV3,Sevenoaks - Sevenoaks Quarry,"Bat and Ball Road, Bat and Ball, Sevenoaks",37,Sevenoaks,Industrial,553194,157248,51.293759175,0.195766572888,2015-06-22T00:00:00Z,2018-05-16T00:00:00Z,FALSE,FALSE,FALSE
+kcl,RHD,Richmond Upon Thames - Craneford Way,"Council Depot, Craneford Way, Twickenham",503,Mobile sites,Industrial,515274,173535,51.44905133324299,-0.34253210361486974,2012-01-04T00:00:00Z,2016-05-24T00:00:00Z,FALSE,FALSE,TRUE
+kcl,RHE,Richmond Upon Thames - Hanworth Road,"Hanworth Road, Richmond Upon Thames",503,Mobile sites,Kerbside,512437,173217,51.44676299797517,-0.38344139433031416,2012-03-15T00:00:00Z,2015-03-11T00:00:00Z,FALSE,FALSE,TRUE
+kcl,WM7,Marylebone Rd Ion Chromatography,Marylebone Rd Ion Chromatography,501,Marylebone Road,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,1997-08-01T00:00:00Z,1997-12-30T00:00:00Z,FALSE,TRUE,TRUE
+kcl,NM3,Newham - Wren Close,"Wren Close, Canning Town, Newham",25,Newham,Urban Background,539889,181469,51.514727,0.014554,2003-03-21T00:00:00Z,2024-04-02T00:00:00Z,FALSE,TRUE,TRUE
+kcl,LB6,Lambeth - Streatham Green,"Streatham Green, London",22,Lambeth,Urban Background,529971,171570,51.428213142949865,-0.13186863879576,2009-08-17T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,RIZ,Richmond - Hampton Court Road,"Richmond Mobile Site - A308, Hampton Court Road",503,Mobile sites,Kerbside,515473,168771,51.40619309898007,-0.3412208948139471,2010-01-05T00:00:00Z,2011-01-11T00:00:00Z,FALSE,FALSE,TRUE
+kcl,ST7,Sutton - Therapia Lane,"LB Sutton Fleet Services Depot, Therapia Lane",29,Sutton,Industrial,529780,166850,51.38583912921258,-0.13633985722048586,2010-02-09T00:00:00Z,2012-02-10T00:00:00Z,FALSE,FALSE,TRUE
+kcl,WA1,Wandsworth - Garratt Lane,"Garratt Lane, Wandsworth",32,Wandsworth,Roadside,525648,174428,51.45487220849996,-0.193003999857021,1995-04-01T00:00:00Z,1996-02-26T00:00:00Z,FALSE,FALSE,TRUE
+kcl,MR4,Marylebone Road APS,"Cabin opposite Madame Tussauds, Marylebone Road",500,ERG Research,Kerbside,528125,182016,51.52236670521651,-0.15469999607315396,2010-06-01T00:00:00Z,2015-04-20T00:00:00Z,TRUE,TRUE,TRUE
+kcl,NK5,North Kensington APS,"Sion Manning School, St. Charles' square, North Kensington",500,ERG Research,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2010-07-07T00:00:00Z,2017-11-17T00:00:00Z,FALSE,TRUE,TRUE
+kcl,MR6,Marylebone Road - URG,"Cabin opposite Madame Tussauds, Marylebone Road",651,DEFRA Particles,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2011-01-20T00:00:00Z,2020-07-06T00:00:00Z,FALSE,TRUE,TRUE
+kcl,RB7,Redbridge - Ley Street,"Ley Street Depot, Ley Street, Ilford",26,Redbridge,Urban Background,544454,187682,51.56948433152372,0.08290747489649461,2014-05-15T00:00:00Z,2024-04-03T00:00:00Z,FALSE,FALSE,TRUE
+kcl,KM1,North Kensington MET,"Sion Manning School, St. Charles' square",500,ERG Research,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2012-10-04T00:00:00Z,2018-11-22T00:00:00Z,FALSE,TRUE,TRUE
+kcl,MYI,Marylebone Road Increment,"Cabin opposite Madame Tussauds, Marylebo",500,ERG Research,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2014-09-24T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,XK0,North Kensington - Modelled,NA,500,ERG Research,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2008-10-01T00:00:00Z,2013-01-17T00:00:00Z,FALSE,TRUE,TRUE
+kcl,TD9,Teddington BAM,"National Physical Laboratory, Teddington",500,ERG Research,Suburban,515115,170778,51.42430434414558,-0.34571457644694736,2013-11-05T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,CR8,Croydon - Norbury Manor,"Norbury Manor Primary School, Abingdon Road",8,Croydon,Urban Background,530325,169554,51.41001463214379,-0.12752013914202248,2014-12-01T00:00:00Z,2025-04-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,KT3,Kingston Upon Thames - Sopwith Way,"Junction of Sopwith Way and Kingsgate Road, Kingston town centre",21,Kingston,Roadside,518202,169673,51.413691,-0.302269,2015-03-10T00:00:00Z,2016-07-13T00:00:00Z,FALSE,FALSE,TRUE
+kcl,KT4,Kingston Upon Thames - Tolworth Broadway,"Outside Number 132 Tolworth Broadway, Tolworth",21,Kingston,Roadside,519706,165885,51.379312,-0.281259,2015-04-13T00:00:00Z,2024-06-20T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BT8,Brent - ARK Franklin Primary Academy,"ARK Franklin Primary Academy, Chamberlayne Road, London",4,Brent,Roadside,523721,183008,51.53240546178093,-0.2177189086393766,2017-10-30T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,TB2,Team London Bridge - Tower Bridge School,Tower Bridge Primary School,53,Team London Bridge,Roadside,NA,NA,51.501679,-0.077746,2017-01-13T00:00:00Z,2017-06-21T00:00:00Z,FALSE,TRUE,TRUE
+kcl,KF1,Kensington and Chelsea - North Ken FIDAS,"Sion Manning School, St. Charles' square, North Kensington",20,Kensington and Chelsea,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2017-02-20T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,WMB,Westminster - Oxford Street East,"94 Oxford St, Fitzrovia",33,Westminster,Roadside,529493,181331,51.516066,-0.13516388,2018-06-05T00:00:00Z,2023-06-08T00:00:00Z,TRUE,TRUE,TRUE
+kcl,TH6,Tower Hamlets - Millwall Park,"Millwall Park, Isle of Dogs",30,Tower Hamlets,Urban Background,538052,178559,51.4891342634,-0.0129769309432,2015-07-06T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,ME7,Merton - Willow Lane Industrial Estate,"Bunting Close, Willow Lane Industrial Estate, Mitcham",24,Merton,Industrial,527751,167742,51.3943415638,-0.165161044588,2015-08-05T00:00:00Z,2016-04-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,ME8,Merton - Willow Lane Industrial Estate,"Bunting Close, Willow Lane Industrial Estate, Mitcham",503,Mobile sites,Industrial,527751,167742,51.394315430809286,-0.16516145573932714,2015-08-05T00:00:00Z,2016-04-01T00:00:00Z,FALSE,FALSE,TRUE
+kcl,MR9,Marylebone Road - Fidas,"Cabin opposite Madame Tussauds, Marylebone Road",500,ERG Research,Kerbside,528125,182016,51.52250935974187,-0.1546221546568425,2017-02-20T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,FA1,Team London Bridge - Tooley Street FASQ,"Tooley Street, London Bridge",53,Team London Bridge,Kerbside,NA,NA,51.504366,-0.08257,2015-10-26T00:00:00Z,2017-01-13T00:00:00Z,TRUE,TRUE,TRUE
+kcl,NB1,Westminster - Strand (Northbank BID),"King's College London, Strand Campus, Strand",33,Westminster,Roadside,530785,180911,51.511970118827705,-0.1167131035285462,2015-04-28T00:00:00Z,2023-08-12T00:00:00Z,TRUE,TRUE,TRUE
+kcl,HFY,Hammersmith and Fulham - Talgarth Road B,"Talgarth Road, Hammersmith",500,ERG Research,Roadside,NA,NA,51.504366,-0.08257,2015-10-01T00:00:00Z,2017-05-16T00:00:00Z,TRUE,TRUE,TRUE
+kcl,WAC,Lavender Hill,313 Lavender Hill,32,Wandsworth,Roadside,527450,175454,51.463690356811114,-0.16671348599480615,2016-04-14T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,CR9,Croydon - Park Lane,"Traffic Island, Park Lane, Croydon",8,Croydon,Roadside,532568,165599,51.3739530635378,-0.09676384683238544,2015-11-02T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,WMZ,Westminster - Oxford Street 2,Oxford Street 2,33,Westminster,Kerbside,528276,181065,51.51392874042133,-0.15279270188193483,2016-05-13T00:00:00Z,2016-09-08T00:00:00Z,TRUE,TRUE,TRUE
+kcl,ME9,Merton - Morden Civic Centre 2,Morden Civic Centre,24,Merton,Roadside,525593,168498,51.40162,-0.19589212,2017-01-27T00:00:00Z,NA,FALSE,FALSE,TRUE
+kcl,GN5,Greenwich - Trafalgar Road (Hoskins St),Hoskins Street,11,Greenwich,Roadside,538997,178006,51.4839072533485,4.073969358497364e-4,2017-10-12T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,BQ6,Bexley - Manor Road East Gravimetric,"Manor Road (East), Erith",3,Bexley,Industrial,552239,177691,51.47767079629801,0.19083622597490152,2010-02-12T00:00:00Z,2014-10-28T00:00:00Z,FALSE,FALSE,TRUE
+kcl,BQ5,Bexley - Manor Road West Gravimetric,"Manor Road, Erith",3,Bexley,Industrial,551999,177742,51.478193508393275,0.1874048839990953,1999-04-28T09:00:00Z,2014-10-28T00:00:00Z,FALSE,FALSE,TRUE
+kcl,XT2,BT Tower - ClearfLo APS,BT Tower,500,ERG Research,Urban Background,529221,181920,51.52139718501779,-0.1388687072890943,2010-11-01T00:00:00Z,2013-02-11T00:00:00Z,TRUE,TRUE,TRUE
+kcl,SK5,Southwark - A2 Old Kent Road,"Toys R Us, Old Kent Road, London",28,Southwark,Roadside,534844,177515,51.480499493646654,-0.05955289325734224,2010-11-24T00:00:00Z,NA,FALSE,TRUE,TRUE
+kcl,NK6,North Kensington - URG,"Sion Manning School, St. Charles' square, North Kensington",651,DEFRA Particles,Urban Background,524045,181752,51.5210467476039,-0.21349213958506472,2011-01-20T00:00:00Z,2018-11-08T00:00:00Z,FALSE,TRUE,TRUE
+kcl,CE1,Regent Street facade (The Crown Estate),139 Regent Street,33,Westminster,Roadside,529224,180792,51.51118249797865,-0.13911412278445567,2020-05-01T00:00:00Z,2023-03-01T00:00:00Z,TRUE,TRUE,TRUE
+kcl,RHF,Richmond Upon Thames - Hanworth Road,"Hanworth Road, Richmond Upon Thames",503,Mobile sites,Kerbside,512437,173217,51.44676299797517,-0.38344139433031416,2012-03-15T00:00:00Z,2015-03-11T00:00:00Z,FALSE,FALSE,TRUE
+kcl,EI3,Ealing - Acton Vale,"Acton Pumping Station entrance, junction of Canham Road and Warple Way",9,Ealing,Urban Background,521234,179771,51.50385279198161,-0.25466810162037246,2017-11-23T00:00:00Z,2025-02-14T00:00:00Z,FALSE,TRUE,TRUE
+kcl,WMA,Westminster - Buckingham Palace Road,146 Buckingham Palace Road,33,Westminster,Roadside,528709,178773,51.49323279168606,-0.1473917570270278,2018-02-18T00:00:00Z,2020-04-27T10:00:00Z,FALSE,TRUE,TRUE
+kcl,HP5,Honor Oak Park ACSM,"King's College Sports Ground, Honor Oak Park",651,DEFRA Particles,Urban Background,536473,174128,51.44967289603535,-0.03741535921153065,2018-11-27T00:00:00Z,2026-01-12T00:00:00Z,FALSE,TRUE,TRUE

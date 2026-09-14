@@ -1,0 +1,24 @@
+\begin{table}[!htbp]
+\centering
+\caption{Effective identifying support for the currently untreated exposure component, 0--3 km benchmark}
+\label{tab:ulez_effective_support_3km}
+\small
+\begin{threeparttable}
+\begin{tabular}{lrrrr}
+\toprule
+ & Nominal exposed & Raw target & Nonzero residualized & \\
+Stack & receivers & stations & target stations & $N_{\mathrm{eff}}$ \\
+\midrule
+2019 Central ULEZ & 14 & 11 & 113 & 6.69 \\
+2021 Inner London & 6 & 6 & 118 & 2.23 \\
+2023 London-wide & 2 & 1 & 111 & 1.04 \\
+\midrule
+Pooled across stacks & 22 & 18 & 126 & 7.25 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\footnotesize
+\item \emph{Notes:} ``Nominal exposed receivers'' counts currently untreated stations with positive entering-cohort exposure. ``Raw target stations'' counts stations for which the post-treatment target regressor is nonzero. ``Nonzero residualized target stations'' counts stations with nonzero target residuals after partialling out the fixed effects and the other decomposition components; it is \emph{not} a count of raw treatment-exposure support. Residualization can assign nonzero target residuals to stations whose raw target regressor is zero. Support should therefore be assessed using the raw counts together with the distribution of residualized sum of squares, $N_{\mathrm{eff}}$, the largest $q_i$ shares, and Frisch--Waugh--Lovell coefficient contributions. In the 2023 stack, the largest station share is 0.980; for the pooled model it is 0.284.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

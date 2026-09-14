@@ -1,0 +1,29 @@
+\begin{table}[!htbp]\centering
+\caption{Implementation of the exposure-mapping protocol in the London ULEZ illustration}
+\label{tab:ulez_protocol_implementation}
+\begin{threeparttable}
+\small
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabularx}{\textwidth}{@{}c>{\RaggedRight\arraybackslash}p{0.25\textwidth}>{\RaggedRight\arraybackslash}X@{}}
+\toprule
+Step & Protocol item & Implementation in the ULEZ illustration \\
+\midrule
+1 & Treatment, unit, and timing & Monthly monitoring-station panel; treatment equals being inside an active ULEZ boundary. Central ULEZ starts in April 2019, Inner London expansion in October 2021, and London-wide expansion in August 2023. \\
+2 & Propagation mechanism & Vehicular-emissions regulation may affect nearby untreated stations through local pollution diffusion and traffic reallocation. \\
+3 & Choose $\mathbf{W}$ from the mechanism & Benchmark $\mathbf{W}$ is a binary 0--3 km threshold. Alternatives include shorter thresholds and distance rings: 0--2, 2--5, 5--10, 10--20, and 20--40 km. \\
+4 & Construct treatment-exposure cells & For each matrix, construct $S_{it}(\mathbf{W})=\sum_j w_{ij}D_{jt}$ and classify station-months into $D0/S0$, $D0/S1$, $D1/S0$, and $D1/S1$. \\
+5 & Report support and overlap & Support diagnostics are reported before estimates. For the 0--3 km benchmark, support is $D0/S0=6858$; $D0/S1=386$; $D1/S0=312$; and $D1/S1=2582$ . \\
+6 & Pre-trends by treatment-exposure cell & A benchmark-cell pre-trend figure and a pre-period slope test compare $D0/S1$, $D1/S0$, and $D1/S1$ with the $D0/S0$ reference group before April 2019. \\
+7 & Estimate direct-treatment, treated-exposure, and currently untreated exposure components & The unrestricted model estimates $\beta^d$, $\beta^t$, and $\beta^u$ separately. Restricted and no-exposure models are reported only for comparison. \\
+8 & Inference robust to dependence & Baseline inference clusters standard errors by monitoring station. Serial/spatial alternatives are reported as appendix robustness checks. \\
+9 & Challenge $\mathbf{W}$ & Alternative threshold and ring matrices are interpreted as competing exposure hypotheses, not as repeated estimates of one invariant estimand. \\
+10 & Total effects after decomposition & The illustration emphasizes decomposed effects. The restricted common-exposure coefficient is interpreted only after $\beta^t$ and $\beta^u$ are reported. \\
+\bottomrule
+\end{tabularx}
+\begin{tablenotes}[flushleft]
+\footnotesize
+\item Notes: The table maps the ten-step protocol into the empirical illustration. The exercise illustrates exposure mapping rather than providing a complete policy evaluation of the ULEZ.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

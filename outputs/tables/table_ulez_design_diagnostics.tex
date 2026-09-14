@@ -1,0 +1,29 @@
+\begin{table}[!htbp]\centering
+\caption{Benchmark support and residualized-design diagnostics}
+\label{tab:ulez_design_diagnostics}
+\begin{threeparttable}
+\small
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.10}
+\begin{tabularx}{\textwidth}{@{}>{\RaggedRight\arraybackslash}Xr>{\RaggedRight\arraybackslash}X@{}}
+\toprule
+Diagnostic & Value & Interpretation \\
+\midrule
+$D0/S0$ & 6858 & Untreated and unexposed \\
+$D0/S1$ & 386 & Untreated and exposed \\
+$D1/S0$ & 312 & Treated and unexposed \\
+$D1/S1$ & 2582 & Treated and exposed \\
+$\mathrm{corr}(\widetilde{D}_{it},\widetilde{D_{it}S_{it}})$ & 0.788 & Residualized direct-treatment versus treated-exposure regressor \\
+$\mathrm{corr}(\widetilde{D}_{it},\widetilde{(1-D_{it})S_{it}})$ & -0.252 & Residualized direct-treatment versus currently untreated exposure regressor \\
+$\mathrm{corr}(\widetilde{D_{it}S_{it}},\widetilde{(1-D_{it})S_{it}})$ & -0.257 & Residualized treated-exposure versus currently untreated exposure regressor \\
+$\mathrm{VIF}(\widetilde{D}_{it})$ & 2.65 & Collinearity diagnostic for the direct-treatment regressor \\
+$\mathrm{VIF}(\widetilde{D_{it}S_{it}})$ & 2.66 & Collinearity diagnostic for the treated-exposure regressor \\
+$\mathrm{VIF}(\widetilde{(1-D_{it})S_{it}})$ & 1.08 & Collinearity diagnostic for the currently untreated exposure regressor \\
+\bottomrule
+\end{tabularx}
+\begin{tablenotes}[flushleft]
+\footnotesize
+\item Notes: Residualized variables are obtained after partialling out monitoring-station and month fixed effects. VIF denotes the variance-inflation factor computed from the residualized design matrix of the benchmark unrestricted model.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

@@ -1,0 +1,23 @@
+\begin{table}[!htbp]
+\centering
+\begin{threeparttable}
+\caption{Inference diagnostics for the benchmark unrestricted exposure model}
+\label{tab:ulez_spatial_inference}
+\begin{tabular}{lccc}
+\toprule
+Inference procedure & $\beta^d$ & $\beta^t$ & $\beta^u$ \\
+\midrule
+Station cluster & -6.60** (2.81) & -3.31 (2.99) & -9.85*** (2.63) \\
+Station x month cluster & -6.60** (2.96) & -3.31 (3.14) & -9.85*** (2.91) \\
+Conley 3 km & -6.60** (3.10) & -3.31 (3.30) & -9.85*** (2.78) \\
+Conley 5 km & -6.60** (3.24) & -3.31 (3.51) & -9.85*** (3.12) \\
+Conley 10 km & -6.60** (2.94) & -3.31 (4.78) & -9.85*** (2.18) \\
+Spatial block bootstrap (8 blocks) & -6.60 (4.67) & -3.31 (4.84) & -9.85*** (3.32) \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}[flushleft]
+\footnotesize
+\item Notes: Entries are percentage effects, $100[\exp(\widehat\beta)-1]$, with standard errors in parentheses computed by the delta method. $\beta^d$ is the direct-treatment parameter, $\beta^t$ the treated-exposure parameter, and $\beta^u$ the currently untreated exposure parameter. Conley rows hold the 0--3 km exposure mapping fixed and vary only the covariance estimator. The spatial block bootstrap uses eight geographic station blocks.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

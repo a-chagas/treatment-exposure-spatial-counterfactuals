@@ -1,0 +1,24 @@
+\begin{table}[!htbp]
+\centering
+\caption{Dynamic identifying support for the currently untreated exposure component}
+\label{tab:ulez_boundary_dynamic_support}
+\small
+\begin{threeparttable}
+\begin{tabular}{lrrrrrr}
+\toprule
+& \multicolumn{2}{c}{Raw exposed receivers} & \multicolumn{2}{c}{Nonzero raw target} & \multicolumn{2}{c}{$N_{\mathrm{eff}}$} \\
+Cohort & Station & Boundary & Station & Boundary & Station & Boundary \\
+\midrule
+2019 & 14 & 19 & 11 & 15 & 6.69 & 5.89 \\
+2021 & 6 & 11 & 6 & 11 & 2.23 & 3.39 \\
+2023 & 2 & 4 & 1 & 3 & 1.04 & 1.05 \\
+\midrule
+Pooled & 22 & 34 & 18 & 29 & 7.25 & 9.17 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\footnotesize
+\item \emph{Notes:} ``Raw exposed receivers'' counts currently untreated stations with positive entering-cohort exposure; ``Nonzero raw target'' counts stations for which the corresponding post-treatment target regressor is nonzero. $N_{\mathrm{eff}}$ is computed from station shares of residualized identifying variation after partialling out fixed effects and the remaining decomposition terms. The boundary mapping expands pooled support but does not resolve the very weak 2023 cohort-specific support.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

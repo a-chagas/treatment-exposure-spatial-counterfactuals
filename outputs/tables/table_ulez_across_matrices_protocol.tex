@@ -1,0 +1,27 @@
+\begin{table}[!htbp]\centering
+\caption{Direct-treatment, treated-exposure, currently untreated exposure, and restricted exposure effects across matrices}
+\label{tab:ulez_across_matrices_protocol}
+\begin{threeparttable}
+\scriptsize
+\setlength{\tabcolsep}{2pt}
+\renewcommand{\arraystretch}{1.08}
+\begin{tabularx}{\textwidth}{@{}>{\RaggedRight\arraybackslash}Xrrrrrrr@{}}
+\toprule
+Mapping & $D0/S1$ & $D1/S0$ & $\beta^d$ & $\beta^t$ & $\beta^u$ & $\beta^r$ & $p_{tu}$ \\
+\midrule
+Threshold 0--2 km & 263 & 628 & -6.39** & -3.03 & -7.46*** & -3.90 & 0.185 \\
+Threshold 0--3 km & 386 & 312 & -6.60** & -3.31 & -9.85*** & -5.56** & 0.078 \\
+Threshold 0--5 km & 845 & 0 & -16.09*** & 10.25 & -7.88*** & -4.18 & 0.007 \\
+Ring 0--2 km & 263 & 628 & -6.39** & -3.03 & -7.46*** & -3.90 & 0.185 \\
+Ring 2--5 km & 845 & 16 & -14.68*** & 8.35 & -7.76** & -2.66 & 0.003 \\
+Ring 5--10 km & 1994 & 325 & -12.28*** & 2.39 & -7.97** & -3.02 & 0.012 \\
+Ring 10--20 km & 2654 & 412 & -13.47*** & 29.84*** & 9.65* & 15.42*** & 0.003 \\
+Ring 20--40 km & 1462 & 1245 & -11.78*** & 11.55* & -8.39 & -1.08 & 0.008 \\
+\bottomrule
+\end{tabularx}
+\begin{tablenotes}[flushleft]
+\footnotesize
+\item Notes: Effects are expressed in percent. $\beta^r$ is the common exposure coefficient from the restricted model. The equality test is computed in the unrestricted model; $p_{tu}$ denotes the p-value for $H_0:\beta^t=\beta^u$. Significance: * $p<0.10$, ** $p<0.05$, *** $p<0.01$.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

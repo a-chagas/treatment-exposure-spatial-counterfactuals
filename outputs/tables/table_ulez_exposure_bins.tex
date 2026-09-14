@@ -1,0 +1,21 @@
+\begin{table}[!htbp]
+\centering
+\begin{threeparttable}
+\caption{Diagnostic for the linear exposure-response restriction}
+\label{tab:ulez_exposure_bins}
+\begin{tabular}{lrcrc}
+\toprule
+Exposure bin & Treated obs. & Treated exposure & Untreated obs. & Currently untreated exposure \\
+\midrule
+B1 & 0 &  & 108 & -3.70 (3.99) \\
+B2 & 22 & 0.74 (3.04) & 72 & -7.18** (2.74) \\
+B3 & 296 & -6.97 (4.16) & 55 & -13.07* (7.24) \\
+B4 & 2264 & -4.55 (3.07) & 151 & -6.95*** (2.30) \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}[flushleft]
+\footnotesize
+\item Notes: The continuous 0--3 km exposure index is replaced by four indicators among observations with positive exposure. The implementation first attempts quartile cutpoints; because tied positive-exposure quantiles make those cutpoints non-unique in this sample, the reported diagnostic uses the prespecified fallback of four equal-width bins over the positive-exposure range. Treated-exposure coefficients are associated with $D_{it}1\{S_{it}\in B_k\}$; currently untreated exposure coefficients are associated with $(1-D_{it})1\{S_{it}\in B_k\}$. Entries are percentage effects, $100[\exp(\widehat\theta)-1]$, with station-clustered standard errors in parentheses. The model includes monitoring-station and month fixed effects.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

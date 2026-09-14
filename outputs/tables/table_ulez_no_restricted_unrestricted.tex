@@ -1,0 +1,32 @@
+\begin{table}[!htbp]\centering
+\caption{Benchmark comparison of no-exposure, restricted-exposure, and unrestricted-exposure models}
+\label{tab:ulez_no_restricted_unrestricted}
+\begin{threeparttable}
+\small
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.10}
+\begin{tabularx}{\textwidth}{@{}>{\RaggedRight\arraybackslash}Xccc@{}}
+\toprule
+ & No exposure & Restricted exposure & Unrestricted exposure \\
+\midrule
+$\beta^d D_{it}$ & -7.89*** (1.89) & -4.38* (2.26) & -6.60** (2.81) \\
+$\beta^r S_{it}$ &  & -5.56** (2.25) &  \\
+$\beta^t D_{it}S_{it}$ &  &  & -3.31 (2.99) \\
+$\beta^u(1-D_{it})S_{it}$ &  &  & -9.85*** (2.63) \\
+\midrule
+$H_0:\beta^t=\beta^u$ p-value &  &  & 0.078 \\
+$\Delta$BIC: restricted $-$ unrestricted &  & 7.5 &  \\
+\midrule
+Observations & 10138 & 10138 & 10138 \\
+Within $R^2$ & 0.016 & 0.020 & 0.022 \\
+BIC & -7332.0 & -7363.3 & -7370.8 \\
+Station FE & Yes & Yes & Yes \\
+Month FE & Yes & Yes & Yes \\
+\bottomrule
+\end{tabularx}
+\begin{tablenotes}[flushleft]
+\footnotesize
+\item Notes: Entries are percentage effects, $100[\exp(\hat\beta)-1]$, with cluster-robust standard errors by monitoring station in parentheses. The benchmark exposure mapping is the binary 0--3 km threshold matrix. The restricted model imposes $\beta^t=\beta^u=\beta^r$. Significance: * $p<0.10$, ** $p<0.05$, *** $p<0.01$.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

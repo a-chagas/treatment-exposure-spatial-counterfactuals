@@ -1,0 +1,22 @@
+\begin{table}[!htbp]\centering
+\caption{Benchmark ULEZ estimates and implied exposure effects}
+\label{tab:ulez_benchmark_implied_effects}
+\begin{threeparttable}
+\small
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.08}
+\begin{tabularx}{\textwidth}{@{}>{\RaggedRight\arraybackslash}Xrrrr@{}}
+\toprule
+Specification & $\beta^d$ & $\beta^r\bar S$ & $\beta^t\bar S^t$ & $\beta^u\bar S^u$ \\
+\midrule
+No-exposure DiD & -7.89*** (1.89) &  &  &  \\
+Restricted exposure & -4.38* (2.26) & -5.03** (2.05) &  &  \\
+Unrestricted exposure & -6.60** (2.81) &  & -3.14 (2.83) & -6.16*** (1.68) \\
+\bottomrule
+\end{tabularx}
+\begin{tablenotes}[flushleft]
+\footnotesize
+\item Notes: Entries are percentage effects, $100[\exp(\widehat{\mathrm{effect}})-1]$, with standard errors in parentheses. The restricted exposure effect is evaluated as $\hat\beta^r\bar S$, where $\bar S$ is the mean positive benchmark exposure. The treated-exposure and currently untreated exposure effects are evaluated as $\hat\beta^t\bar S^t$ and $\hat\beta^u\bar S^u$, where $\bar S^t$ and $\bar S^u$ are the mean positive exposures among treated exposed and currently untreated exposed observations, respectively. Estimated exposure means are $\bar S=0.902$, $\bar S^t=0.946$, and $\bar S^u=0.613$. Significance: * $p<0.10$, ** $p<0.05$, *** $p<0.01$. Source: London Air Quality Network/Imperial College London monitoring data and Greater London Authority/Transport for London ULEZ boundary files. Author's calculations.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

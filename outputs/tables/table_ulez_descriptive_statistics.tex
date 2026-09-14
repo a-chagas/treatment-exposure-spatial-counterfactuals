@@ -1,0 +1,28 @@
+\begin{table}[!htbp]\centering
+\caption{Descriptive statistics for the ULEZ empirical illustration}
+\label{tab:ulez_descriptive_statistics}
+\begin{threeparttable}
+\small
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.08}
+\begin{tabularx}{\textwidth}{@{}>{\RaggedRight\arraybackslash}Xrrrrrrrr@{}}
+\toprule
+Variable & $N$ & Mean & SD & Min & $p25$ & $p50$ & $p75$ & Max \\
+\midrule
+$NO_2$ & 10,138 & 34.731 & 17.659 & 4.197 & 22.331 & 31.161 & 42.720 & 140.973 \\
+$\log(NO_2)$ & 10,138 & 3.429 & 0.489 & 1.434 & 3.106 & 3.439 & 3.755 & 4.949 \\
+$D_{it}$ & 10,138 & 0.285 & 0.452 & 0.000 & 0.000 & 0.000 & 1.000 & 1.000 \\
+$S_{it}$ & 10,138 & 0.264 & 0.423 & 0.000 & 0.000 & 0.000 & 0.667 & 1.000 \\
+$D_{it}S_{it}$ & 10,138 & 0.241 & 0.416 & 0.000 & 0.000 & 0.000 & 0.611 & 1.000 \\
+$(1-D_{it})S_{it}$ & 10,138 & 0.023 & 0.131 & 0.000 & 0.000 & 0.000 & 0.000 & 1.000 \\
+$S_{it}\mid S_{it}>0$ & 2,968 & 0.902 & 0.190 & 0.111 & 0.857 & 1.000 & 1.000 & 1.000 \\
+$S_{it}\mid D_{it}=1,S_{it}>0$ & 2,582 & 0.946 & 0.119 & 0.500 & 1.000 & 1.000 & 1.000 & 1.000 \\
+$S_{it}\mid D_{it}=0,S_{it}>0$ & 386 & 0.613 & 0.296 & 0.111 & 0.333 & 0.562 & 0.900 & 1.000 \\
+\bottomrule
+\end{tabularx}
+\begin{tablenotes}[flushleft]
+\footnotesize
+\item Notes: $NO_2$ is measured in $\mu$g/m$^3$. $S_{it}$ is the benchmark row-standardized 0--3 km exposure index. The last three rows report exposure intensity among exposed observations, including the treated exposed and currently untreated exposed subsamples used to compute $\bar S^t$ and $\bar S^u$. The empirical specifications include station and month fixed effects and no additional time-varying covariates. Source: London Air Quality Network/Imperial College London monitoring data and Greater London Authority/Transport for London ULEZ boundary files. Author's calculations.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
