@@ -22,7 +22,8 @@ dir.create(LOG_DIR, recursive = TRUE, showWarnings = FALSE)
 
 REQUIRED_PACKAGES <- c(
   "data.table", "dplyr", "tidyr", "tibble", "readr", "stringr",
-  "ggplot2", "fixest", "sf", "lubridate", "units", "glue", "janitor"
+  "ggplot2", "fixest", "sf", "lubridate", "units", "glue", "janitor",
+  "purrr"
 )
 missing_packages <- REQUIRED_PACKAGES[
   !vapply(REQUIRED_PACKAGES, requireNamespace, quietly = TRUE, FUN.VALUE = logical(1))
