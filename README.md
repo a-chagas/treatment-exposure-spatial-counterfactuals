@@ -57,7 +57,7 @@ For spatial inference, Conley covariance estimates use the triangular distance c
 
 The scripts require R and the following packages:
 
-`data.table`, `dplyr`, `tidyr`, `tibble`, `readr`, `stringr`, `ggplot2`, `fixest`, `sf`, `lubridate`, `units`, `glue`, and `janitor`.
+`data.table`, `dplyr`, `tidyr`, `tibble`, `readr`, `stringr`, `ggplot2`, `fixest`, `sf`, `lubridate`, `units`, `glue`, `janitor`, and `purrr`.
 
 The scripts deliberately do **not** install packages automatically.
 
